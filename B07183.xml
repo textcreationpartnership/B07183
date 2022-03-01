@@ -1,0 +1,1208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prophecie of Agabus, concerning a generall famine to come vpon the worlde: togither with a beneuolence for the most distressed: / set out by Peter Barker minister at Stoure-Paine..</title>
+            <author>Barker, Peter, preacher of Gods word.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1597</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07183</idno>
+            <idno type="OCLC"> 166384184</idno>
+            <idno type="STC">STC 1426.5</idno>
+            <idno type="STC">ESTC S90391</idno>
+            <idno type="EEBO-CITATION">166384184</idno>
+            <idno type="OCLC">ocn 166384184</idno>
+            <idno type="VID">191464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191464)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2259:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prophecie of Agabus, concerning a generall famine to come vpon the worlde: togither with a beneuolence for the most distressed: / set out by Peter Barker minister at Stoure-Paine..</title>
+                  <author>Barker, Peter, preacher of Gods word.</author>
+               </titleStmt>
+               <extent>[100] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Creede.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1597..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's ornament on t.p., initials throughout.</note>
+                  <note>Signature: A-F⁸ G².</note>
+                  <note>Imperfect: pages tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XXI, 27 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  16th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191464:1" rendition="simple:additions"/>
+            <p>THE PROPHECIE of Agabus, con<g ref="char:EOLhyphen"/>cerning a generall Famine to come vpon the worlde: Togither with a beneuolence for <hi>the moſt diſtreſſed: ſet out by Peter Barker</hi> Miniſter at Stoure-paine.</p>
+            <q>
+               <bibl>Luke 15. 17.</bibl>
+               <p>
+                  <hi>How many hyred ſeruants in my Fa<g ref="char:EOLhyphen"/>thers houſe haue bread enough, and I die for hunger.</hi>
+               </p>
+            </q>
+            <figure/>
+            <p>LONDON Printed by Thomas Creede. 1597.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:191464:2"/>
+            <pb facs="tcp:191464:2"/>
+            <head>THE PROPHECIE OF Agabus, concerning a generall famine to come vpon the world, togi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her with a beneuo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence for the moſt diſtreſſed.</head>
+            <p>Act 11. 27. <hi>In thoſe dayes alſo came Pro<g ref="char:EOLhyphen"/>phe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from Ieruſalem vnto Antioch.</hi>
+            </p>
+            <p n="28">28 <hi>And there ſtood vp one of them named Agabus, and ſignified by the ſpirit, that there ſhould be great famine through<g ref="char:EOLhyphen"/>out the world, which alſo came to paſſe vnder Claudius Caeſar.</hi>
+            </p>
+            <p n="29">29 <hi>Then the Diſciples euerie man ac<g ref="char:EOLhyphen"/>cording to his ability, purpoſed to ſend ſuccor vnto the brethren which dwelt in Iudea.</hi>
+            </p>
+            <p n="30">30 <hi>Which thing they alſo did, and ſent it to the Elders by the hands of Barna<g ref="char:EOLhyphen"/>bas and Saule.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He Arke of <hi>Noah, Ge.</hi> 7. 9. was a figure of the church, wher into Iewes &amp; Gen<g ref="char:EOLhyphen"/>tiles, cleane and vn<g ref="char:EOLhyphen"/>cleane
+<pb facs="tcp:191464:3"/> ſhould one day bee gathe<g ref="char:EOLhyphen"/>red. Ieruſalem is walled about, <hi>Pſal.</hi> 122. 7. and there the Church of God is incloſed. But <hi>Zac.</hi> 2. 4, Ieruſalem ſhal be inhabited with<g ref="char:EOLhyphen"/>out wals. There it is laid common as diſperſed far and nigh ouer the face of the earth. Two commiſsi<g ref="char:EOLhyphen"/>ons are giuen to the Apoſtles, the former with limitation. <hi>Matt.</hi> 10. 5 <hi>Go not into the way of the Gentiles, and into the Cities of the Samaritans enter ye not.</hi> The latter was without re<g ref="char:EOLhyphen"/>ſtraint. <hi>Mat.</hi> 28. 19. <hi>Go and teach all Nations.</hi> In the firſt the partition wall ſtandes vp: In the ſecond that partition wall is broken downe. <hi>Ephe.</hi> 2. 14. <hi>Mat.</hi> 22. 2. <hi>The king<g ref="char:EOLhyphen"/>dome of Heauen is like vnto a cer<g ref="char:EOLhyphen"/>taine king which married his ſonne.</hi> The feaſt is made vnto all people. <hi>Eſay</hi> 25. 2. Therefore both Iewes
+<pb facs="tcp:191464:3"/> and Gentiles are bidden to it. <hi>Mat.</hi> 22. <hi>They that dwell a farre of ſhall come and ſit do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne. Mat.</hi> 8. 11. <hi>The poore and the rich ſhall eate and bee ſa<g ref="char:EOLhyphen"/>tiſfied. Pſal.</hi> 22. 26. 29. <hi>May eate and drinke cheape enough. Eſay.</hi> 55. 7. But though there be no differe<g ref="char:cmbAbbrStroke">̄</g>ce betweene the cleane &amp; vncleane. For <hi>Peter</hi> in the Chapter before, <hi>Acts</hi> 10. falling into a traunce, and ſeeing both ſorts come downe to him in a veſſell, heareth a voice, <hi>Ariſe Peter kill and eate:</hi> though the ſtewardes and commiſsioners of the high God, might diſtribute the food of the ſoule, and make all nations without ſtop partakers of it. And therefore <hi>Barnabas</hi> &amp; <hi>Saule</hi> come vnto <hi>Antiochia</hi> in the verſe before, and certaine Prophets alſo came from <hi>Ieruſalem</hi> vnto <hi>Antio<g ref="char:EOLhyphen"/>chia,</hi> though (I ſay) the famine of
+<pb facs="tcp:191464:4"/> the bread of life ſhuld laſt no lon<g ref="char:EOLhyphen"/>ger, the date was out, &amp; the hand<g ref="char:EOLhyphen"/>writing cancelled, yet <hi>Agabus</hi> in this place telleth and foreſheweth another famine, a great famine of material bread, which ſhuld come vpon all nations, in the world. In the intreatie wherof, I will ſpeake firſt of the famin it ſelfe. 2, of the effects it wrought. Co<g ref="char:cmbAbbrStroke">̄</g>cerning the famin: 1, It is foreſhewed, where I obſerue, 1 the meanes by which it was reuealed to the Prophet, which was the ſpirit. 2, The ende why it was reuealed, which was that he might ſignify it to <hi>y<hi rend="sup">e</hi>
+               </hi> people 2 The famin is brought, where I obſerue the time in which it was brought, to wit whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Claudius</hi> was Emperor of <hi>Rome<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, The reaſon why it was brought, which is here ſuppreſſed, becauſe <hi>Claudius</hi>
+               <pb facs="tcp:191464:4"/> himſelfe (as it is written) was im<g ref="char:EOLhyphen"/>moderately giuen to exceſſe, and the reſt of the world ready to ſur<g ref="char:EOLhyphen"/>feit in their diet.</p>
+            <p>Concerning the effect this fa<g ref="char:EOLhyphen"/>min wrought: it cauſed the diſci<g ref="char:EOLhyphen"/>ples in <hi>Antiochia</hi> to ſend ſuccor &amp; reliefe to their brethren in <hi>Iudea,</hi> which were more diſtreſſed then themſelues, where I note, 1, their charitie, 2, their diſcretion.</p>
+            <p>Touching their charitie, I mark, 1, their charitable mind, they <hi>pur<g ref="char:EOLhyphen"/>poſed to ſend ſuccor:</hi> 2, their charita<g ref="char:EOLhyphen"/>ble practiſe ſhewed two wayes. 1, They made a beneuole<g ref="char:cmbAbbrStroke">̄</g>ce, <hi>which thing they alſo did:</hi> 2 they kept it not in their hands but ſent it away, <hi>and ſent it.</hi>
+            </p>
+            <p>Concerning their charitable minde, in that they purpoſed to giue, I obſerue, 1, the qualities of
+<pb facs="tcp:191464:5"/> the giuers in whom there was:</p>
+            <p n="1">1 A readineſſe without delay, no<g ref="char:EOLhyphen"/>ted in the circumſtance of the time, <hi>Aſſoone as the famine came, Then, &amp;c.</hi>
+            </p>
+            <p n="2">2 A willingneſſe, without com<g ref="char:EOLhyphen"/>pulſion: they did not impoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> law one vpon another: <hi>But eue<g ref="char:EOLhyphen"/>rie man purpoſed.</hi>
+            </p>
+            <p n="3">3 The quantitie of the gift, they which had much, gaue much, they which had litle, gaue litle, <hi>Euery man according to his abilitie.</hi> Their diſcretion appeareth.</p>
+            <p n="1">1 In chooſing truſtie meſſengers who ſhould carrie their bene<g ref="char:EOLhyphen"/>uolence, <hi>as Barnabas and Saule.</hi>
+            </p>
+            <p n="2">2 In appointing wiſe men to re<g ref="char:EOLhyphen"/>ceiue it, which might diſtribute to euery one, as euery one had need: <hi>They ſent it to the Elders. By the ſpirit.</hi> The meanes by
+<pb facs="tcp:191464:5"/> which the famin was foreſhewed was <hi>the ſpirit of God.</hi> The prophe<g ref="char:EOLhyphen"/>cies in the Scripture are not of any priuate motion, men did not ſpeak of their owne heades, but holy men of God ſpake as they were moued by the holy Ghoſt. 2. <hi>Pet.</hi> 1. 20. The prophets are called criers as <hi>Iohn Baptiſt. Mat.</hi> 3. 3. and criers ſpeake nothing but that which is firſt put into their mouths, there<g ref="char:EOLhyphen"/>fore <hi>Eſay</hi> makes a noiſe after the maner of criers. <hi>Eſay</hi> 55. 1. and heares the voyce of God ſaying, <hi>Crie, Eſay</hi> 40. 6. And he ſaid. <hi>VVhat ſhall I crie? All fleſh is graſſe, and all the glory thereof as the flower of the field.</hi> The voice of the Prophets is like a Trumpet. <hi>Eſay</hi> 58. 1. They muſt ſet the tru<g ref="char:cmbAbbrStroke">̄</g>pet to their mouths <hi>Hoſ.</hi> 8. 1. And blow the trumpet in Zion. <hi>Ioel.</hi> 2. 1. But the breath of
+<pb facs="tcp:191464:6"/> the Lord muſt blow it, otherwiſe it giueth but an vncertaine ſound, and falſe alarum. There is a doore of the heart: <hi>Acts</hi> 16. 14: &amp; a doore of the lips, <hi>Pſ.</hi> 141. 3: and he which hath the key of <hi>Dauid, Reuel.</hi> 3: 7. muſt open the doore of the heart, and let the worde in, before the Prophet open the doore of the lips to let the worde out, <hi>Ezech.</hi> 10. 11. Therefore the Lorde tea<g ref="char:EOLhyphen"/>cheth <hi>Balaam</hi> what to ſay, and puts an anſwere in his mouth. <hi>Num.</hi> 23. 5. Therefore <hi>Ioſua</hi> before he deli<g ref="char:EOLhyphen"/>uers the matter, and telleth the children of Iſrael what ſhal come after, vſeth this preface, <hi>Come hi<g ref="char:EOLhyphen"/>ther and heare the wordes of the Lorde your God,</hi> Therfore <hi>Elihu</hi> is taught by God, before he would bee tea<g ref="char:EOLhyphen"/>cher to <hi>Iob:</hi> his heart did ſpeake before his mouth. <hi>Iob</hi> 33. There<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:191464:6"/> Ieremie muſt eate the words <hi>Iere.</hi> 15: 16: and <hi>Ezechiel</hi> muſt eate the roll wherein the prophecies are written, and then ſpeake to the houſe of Iſrael. <hi>Ezech.</hi> 3. 1. And <hi>Iohn</hi> muſt take the little booke out of the angels hand, and eate it vp, and then prophecie againe among the people: <hi>Reu:</hi> 10: 10: and <hi>Agabus</hi> muſt be foretaught by God, and as it were eat the prophecie concer<g ref="char:EOLhyphen"/>ning famin, &amp; then giue notice to the world, how litle they ſhal eate that God will giue them cleannes of teeth in al their riches &amp; ſcarce<g ref="char:EOLhyphen"/>neſſe of bread in all their habitati<g ref="char:EOLhyphen"/>ons. That which the miniſters are here to learne is to deliuer no<g ref="char:EOLhyphen"/>thing vnto the people, but that which they haue gathered out of Gods word: Euery miniſter muſt be a <hi>Moſes,</hi> &amp; ſpeake al, <hi>Ex.</hi> 7: 2: he
+<pb facs="tcp:191464:7"/> muſt bee an <hi>Iſaac,</hi> and ſpeake no more but all. <hi>Gen.</hi> 27. 37. e Hmuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teach. 1. <hi>Tim.</hi> 4. 11. the good and right way. 1. <hi>Sa<g ref="char:cmbAbbrStroke">̄</g>.</hi> 12. 13. If any teach otherwiſe let him be accurſed. <hi>Gal.</hi> 1. 8. That which I haue written ſaith <hi>Pilate, Iohn</hi> 19. 22. As if hee ſhuld ſay, that which I haue writ<g ref="char:EOLhyphen"/>ten truly, ſhall continue written without alteration. That which God hath ſpoken, he hath ſpoke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> once or twiſe. <hi>Pſal.</hi> 62. 11. That hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worde might bee like the <hi>Med<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>Perſians</hi> which altereth not <hi>Dan.</hi> 6. 12. If any man ſhall adde, God ſhall adde vnto him plagues, if any ſhall diminiſh of his worde, God ſhall take away his part ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the booke of life. <hi>Reu.</hi> 22. 18.</p>
+            <p>That which the people gene<g ref="char:EOLhyphen"/>rally are here to learn, is firſt in re<g ref="char:EOLhyphen"/>ſpect of the meſſage that is brogh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:7"/> and doctrine which is deliuered, 1 To giue eare vnto it with dili<g ref="char:EOLhyphen"/>gence. That which <hi>Sarah</hi> ſaith, <hi>Ge.</hi> 21. 10. The ſcripture ſaith. <hi>Gal.</hi> 4. 30. That which the Prophet ſpea<g ref="char:EOLhyphen"/>keth, God ſpeaketh by the mouth of the Prophets. Luk. 1. 70. The worde of the Apoſtles is the prea<g ref="char:EOLhyphen"/>ching of God. 1. <hi>Theſ.</hi> 2. 13. The good doctrine commeth from a<g ref="char:EOLhyphen"/>boue. <hi>Iob</hi> 29. 22. The people haue it from the miniſter, as it were at the ſecond hande, they muſt not therefore doe as <hi>Samuel</hi> did, who thought the Prieſt called him, and ſo after the firſt, ſecond, and thirde call, go and ſleepe: but do as <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> after did, and when we know it is the Lord that calleth vs, in to<g ref="char:EOLhyphen"/>ken of attention, ſay with <hi>Samuel, Speak Lord thy ſeruant heareth.</hi> 1. <hi>Sa<g ref="char:cmbAbbrStroke">̄</g>.</hi> 3. If God ſpeaketh, let not man be
+<pb facs="tcp:191464:8"/> a deafe Adder. If <hi>Paule</hi> preacheth, fall not with <hi>Eutichus</hi> into a dead ſleepe: <hi>Acts</hi> 20: 9: Gaze not a<g ref="char:EOLhyphen"/>bout, but if Chriſt expound the Scripture, let the wandering eye bee faſtened on him: Luke 4<g ref="char:punc">▪</g> 20: Doo not, as though tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haddeſt with <hi>Malchus</hi> thy righ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> care cut off, bring onelie thy left eare to the Sermon, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with <hi>Moſes</hi> draw neare to learn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Exod:</hi> 3: 3: With <hi>Iacob</hi> note th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaving: <hi>Gen:</hi> 33: 11: If God offere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the foode of the ſoule, let hung<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be thy ſauce, and bring a ſtoma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with thee: if he bringeth the wa<g ref="char:EOLunhyphen"/>ter of life, ſay with <hi>Siſera,</hi> Giue m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> water, for I am thirſtie: <hi>Iud<g ref="char:punc">▪</g>
+               </hi> 4: 9: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rather with <hi>Samſon,</hi> I die for thir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Iud:</hi> 15: 18: Secondly, becauſe it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſpirit ſpeaketh, we muſt hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with reuerence, in token wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:8"/> 
+               <hi>Eglon,</hi> whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud</hi> tels him he hath a meſſage from God, dooth ariſe. <hi>Iud:</hi> 3: 20: as <hi>Bala<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> muſt: <hi>Num:</hi> 23: 18: and <hi>Moſes</hi> puts his ſhooes fro<g ref="char:cmbAbbrStroke">̄</g> his feet: <hi>Exod:</hi> 3: 5: and <hi>Marie</hi> ſits at Ieſus feet, &amp; heares his preaching <hi>Lu.</hi> 10: 39: whe<g ref="char:cmbAbbrStroke">̄</g> the law was giue<g ref="char:cmbAbbrStroke">̄</g>, there was thunder and lightning and a thick cloud vpo<g ref="char:cmbAbbrStroke">̄</g> the mount, <hi>Siuai</hi> was all on ſmoke, and all the mount trembled exceedingly: <hi>Ex:</hi> 19: that the people might pro<g ref="char:EOLhyphen"/>ſtrate themſelues before the lord, and receiue it with reuerence, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heſe two diligence &amp; reuerence <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hearing, are the outward duties <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee muſt performe, becauſe God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peaketh. The inward dutie wee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we is meditation: Let not the vir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in be as a broken veſſell, but whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hee hath heard Chriſt ſpeake, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eepe all theſe ſayinges in her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart: <hi>Luke:</hi> 2: 51: Let not
+<pb facs="tcp:191464:9"/> Sermons bee as Muſicke, which once ended, there is no more re<g ref="char:EOLhyphen"/>membrance of it: there muſt bee vertue to retain a potion, if we wil haue it worke within vs. The cleane beaſtes haue not preſently done with their meate aſſoone as they haue eate it, but chew the cud, and bring it vp againe, and a<g ref="char:EOLhyphen"/>gaine, and ſtill do find a ſweetneſſe in it. Let the ſeruant be labouring in the field. <hi>Luk.</hi> 17. 7. and labou<g ref="char:EOLunhyphen"/>ring in the houſe, <hi>ver.</hi> 8. Let <hi>M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tha</hi> go out to meete Chriſt, &amp; <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rie</hi> keepe within doores. <hi>Iohn</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 20. Let there be the eare without and the heart within, let there b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> action, let there be co<g ref="char:cmbAbbrStroke">̄</g>templation let there be hearing, let there be meditatio<g ref="char:cmbAbbrStroke">̄</g>, God hath ioined th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> togither. <hi>Mal.</hi> 2. 2: man muſt n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put them aſunder:</p>
+            <pb facs="tcp:191464:9"/>
+            <p> And as we muſt performe theſe duties becauſe it is the ſpirit that ſpeaketh, ſo becauſe the miniſters are the mouth by which he ſpea<g ref="char:EOLhyphen"/>keth, in reſpect of them wee muſt take heede that on the one ſide we do not perſecute, reuile, or thinke baſely on them for their doctrine. If <hi>Haman</hi> abuſeth <hi>Dauids</hi> meſſen<g ref="char:EOLhyphen"/>ger, hee abuſeth <hi>Dauid, Sam.</hi> 10. They which contemne the Em<g ref="char:EOLhyphen"/>baſſadors, deſpiſe thoſe that ſent them: if the dogge doth bite the ſtone, hee would bite him that threw it, and he that killes the dog meanes no good to the maiſter: if Satan ſtay <hi>Iobs</hi> ſeruant, his malice reacheth to <hi>Iob</hi> himſelfe. And on the otherſide we muſt take heede we think not better of the means then of the author of goodneſſe. The corne is <hi>Pharaohs</hi> though <hi>Io<g ref="char:EOLhyphen"/>ſeph</hi>
+               <pb facs="tcp:191464:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191464:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191464:11"/> muſt deliuer it. <hi>Ge.</hi> 14. 55. Chriſt multiplieth the loaues, <hi>y<hi rend="sup">e</hi>
+               </hi> diſciples do but giue to the<g ref="char:cmbAbbrStroke">̄</g> that ſit down, <hi>Ioh.</hi> 6. 11. It was Chriſt who raiſed <hi>Lazarus,</hi> other did but looſe him &amp; let him go, <hi>Ioh.</hi> 11. 43. To blame are thoſe men of <hi>Lyſtra</hi> to ſacrifice vnto <hi>Paul, Acts</hi> 14. 13. and the men of Iſrael to gaze too much vppon <hi>Peter. Act.</hi> 3. 12. <hi>Paul</hi> may plant, and <hi>Apollo</hi> water, but God giueth increaſe: if <hi>Peter</hi> take a multitude of fiſhes, hee falles downe at Ie<g ref="char:EOLhyphen"/>ſus feete: <hi>Luke</hi> 5: 8. Sette not more by the ſeedleape then by the ver<g ref="char:EOLhyphen"/>tue of the ſeede, and loue of him that ſowes it: prayſe not: more the condite pipe then the ſpring head, from whence the Water floweth.</p>
+            <p>Laſtly let the prognoſticators and diuiners eſpecially here learne
+<pb facs="tcp:191464:11"/> to keepe ſilence: they muſt not en<g ref="char:EOLhyphen"/>ter vpon Gods freehold, the ſtars doo not prognoſticate a true e<g ref="char:EOLhyphen"/>uent, what health, what wealth, what weather ſhall befall, it muſt bee <hi>Eliah</hi> that tels <hi>Ahab</hi> there ſhall be neither dewe nor raine theſe 3. yeeres &amp; 6. months 1. <hi>Reg.</hi> 17. 2. &amp; the ſame <hi>Eliah</hi> that foretelleth the time of much raine 1. <hi>Reg.</hi> 18. 41. if <hi>Hezechiah</hi> bee weakened and ſore broken, if his health be paſt away as a cloude &amp; his ſoule be powred out vpon him, it muſt bee an <hi>E<g ref="char:EOLhyphen"/>ſay</hi> that muſt tell him hee ſhall liue fifteene yeeres longer, <hi>Eſay</hi> 38. 5. If there be marrow to the rich mans bones, health vnto his nauell, no feebleneſſe to his fleſh, none but GOD can ſay, <hi>This night will they fetch away thy ſoule from thee. Luke</hi> 12. 20. If at any time there
+<pb facs="tcp:191464:12"/> be an extreame famin in <hi>Samaria,</hi> that the faire virgins &amp; yong men do periſh for thirſt, and God will not helpe them with the barne or with the winepreſſe, that they eate the fleſh of their ſonnes, and the fleſh of their daughters they deuoure: it muſt bee an <hi>Eliſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> that can propheſie plenty, to mor<g ref="char:EOLhyphen"/>row this time a meaſure of fine flower ſhall be ſolde for a ſhekell, that is to ſay, twenty pence, and two meaſures of barly for a ſhekel in the gates of <hi>Samaria,</hi> 2. <hi>Reg.</hi> 7. 1: If there bee plentie in the world that God doth bleſſe it with hea<g ref="char:EOLhyphen"/>uently bleſſings from aboue, with bleſsings of <hi>y<hi rend="sup">e</hi>
+               </hi> deepe that lieth be<g ref="char:EOLhyphen"/>neath, &amp; men ſit by the fleſh pots and eate bread their belly full: i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God ſend them corne, and wine and oyle, and they are ſatiſfie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:12"/> therewith, then it muſt be an <hi>Aga<g ref="char:EOLhyphen"/>bus</hi> that ſignifieth by the ſpirit, the great famine that ſhould bee tho<g ref="char:EOLhyphen"/>rowout all the world.</p>
+            <p>
+               <hi>There ſtood vp one of them named Agabus.</hi> Many prophets came from <hi>Ieruſalem,</hi> yet but one <hi>Agabus</hi> ac<g ref="char:EOLhyphen"/>quainted with this famine. The body is one, and hath many mem<g ref="char:EOLhyphen"/>bers, and euery member his ſeue<g ref="char:EOLhyphen"/>uerall office, that one may not ſay to another, I haue no neede of thee. So is it with the Church which is the body of Chriſt, who of euery Chriſtian is a member, and theſe members haue their ſe<g ref="char:EOLhyphen"/>uerall gifts, ſome of doctrine, ſome of exhortation, ſome of prai<g ref="char:EOLhyphen"/>er, and ſo forth: and God hath thus giuen his gifts by meaſure that one might haue need of another. <hi>Ioſeph</hi> hath a great gift, that can ex<g ref="char:EOLhyphen"/>pound
+<pb facs="tcp:191464:13"/> the kings dreame aſſoone as hee heares it, <hi>Gene.</hi> 41. 51. But God hath giuen <hi>Daniel</hi> twice as much knowledge, for hee not on<g ref="char:EOLhyphen"/>ly expoundeth <hi>Nebuchadnezzars</hi> dreame, but ſhews the king what the dreame was which the king himſelfe hadde forgotten, <hi>Dan.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 28.</p>
+            <p>Our ſauiour Chriſt the founda<g ref="char:EOLhyphen"/>tion of foundations had the full a<g ref="char:EOLhyphen"/>boundance of all grace, for God gaue him not the ſpirite by mea<g ref="char:EOLhyphen"/>ſure, <hi>Iohn</hi> 3. 34. &amp; in him dwelleth all the fulneſſe of the godhead bo<g ref="char:EOLhyphen"/>dily, <hi>Colloſ.</hi> 2. 9. but to other is gi<g ref="char:EOLhyphen"/>uen grace according to the mea<g ref="char:EOLhyphen"/>ſure of the gift of Chriſt. <hi>Ephe.</hi> 4. 7<g ref="char:punc">▪</g> The 12. Apoſtles which were 12 foundations, might excell one an<g ref="char:EOLhyphen"/>other in gifts, as one ſtone migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee more precious then another
+<pb facs="tcp:191464:13"/> 
+               <hi>Reue.</hi> 21. 19: <hi>Bezaleel</hi> and <hi>Aholiab</hi> ſhall haue more ſkill in all work<g ref="char:EOLhyphen"/>manſhippe then all other to make the tabernacle and the appurte<g ref="char:EOLhyphen"/>nances thereof: <hi>Exo.</hi> 31. 3. He that contriues the Houſe hath moſt cunning, though hee that cuts the Timber may bee a good car<g ref="char:EOLhyphen"/>penter: hee that drawes the knot hath moſt knowledge, though hee that digs the ground may be a good gardiner: the maſter of the worke is moſt expert, though hee which carrieth bricke and morter may bee a good Maſon. <hi>Iethro</hi> may ſee more in ſome thing then <hi>Moſes,</hi> and therfore giue him counſell to iudge himſelfe in hard cauſes, which cannot be decided but by conſulting with god, and for other matters to refer the<g ref="char:cmbAbbrStroke">̄</g> ouer to the inferior officers. <hi>Exo.</hi> 18. 19.
+<pb facs="tcp:191464:14"/> the Prophets heere which cam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from <hi>Ieruſalem,</hi> were ſuch as they were, which did behold as it were from an high tower, things vn<g ref="char:EOLhyphen"/>known to other, <hi>Eſay</hi> 21. 6. &amp; ther<g ref="char:EOLhyphen"/>fore might be called <hi>Sears</hi> as they were, 1. <hi>Sam.</hi> 9, 9. yet amongſt the<g ref="char:cmbAbbrStroke">̄</g> but one <hi>Agabus</hi> ſeeth the famine that is to come. Let vs not enuie one another, but couet after the beſt gifts, and becauſe in the ſame profeſſion that may bee hidden from one, which is known to an<g ref="char:EOLhyphen"/>other, let not he which is able to teach other, diſdaine that other ſhould teach him. To harken is no let, but that a man may ſpeake: to ſpeake is no let but that a man may heare, therefore <hi>Iob</hi> ioyneth them together <hi>Chap.</hi> 34. 34. <hi>Let a man of vnderſtanding tell mee, lette a wiſe man hearken to mee, let a man of vn<g ref="char:EOLhyphen"/>derſtanding</hi>
+               <pb facs="tcp:191464:14"/> 
+               <hi>tell mee,</hi> there he is rea<g ref="char:EOLhyphen"/>dy to heare: <hi>let a wiſe man hearken to me,</hi> there he is ready to ſpeake: ſpeaking and hearing cannot bee preiudiciall one to another. The Apoſtles were ſhepheardes, and therefore hadde a charge of all, <hi>Mar.</hi> 16, 15. they were ſheepe, and therefore muſt bee looked to.</p>
+            <p>
+               <hi>Paul</hi> chargeth the Elders: <hi>Act.</hi> 20. 28. with a care of themſelues, therefore they muſt heare, and with a care of their flocks, there<g ref="char:EOLhyphen"/>fore they muſt teach. The diſci<g ref="char:EOLhyphen"/>ples may fall a ſleepe, and there<g ref="char:EOLhyphen"/>fore muſt bee awaked: <hi>Mat.</hi> 26. 40. The Cocke may awake <hi>Peter,</hi> and one Cocke may awake ano<g ref="char:EOLhyphen"/>ther, therefore lette <hi>Eliah</hi> bee <hi>Eliſhas</hi> head. 2. <hi>Reg.</hi> 2. 3. Let him that ſate in <hi>Moſes</hi> chaire ſometime
+<pb facs="tcp:191464:15"/> ſit at <hi>Gamaliels</hi> feete. And thus much of the meanes by which this famine was made knowne vnto <hi>Agabus,</hi> and onely to <hi>A<g ref="char:EOLhyphen"/>gabus.</hi>
+            </p>
+            <p>The ende followeth, which was that hee might ſignifie the ſame vnto the people. The Pro<g ref="char:EOLhyphen"/>phets were as it were of Gods priuie counſaile. <hi>Amos</hi> 3. 7. The counſaile of earthly Princes muſt bee kept ſecrete: great affayres neuer haue good ſucceſſe, when they are diſcouered before they take effect: therefore <hi>Alexander</hi> communicating a ſecrete to <hi>E<g ref="char:EOLhyphen"/>phestion,</hi> tooke his ſignet from his finger, and ſealed therewith <hi>E<g ref="char:EOLhyphen"/>pheſtions</hi> lippes, ſhewing thereby what hee expected at his handes. The king, ſayeth <hi>Dauid</hi> to <hi>Ahi<g ref="char:EOLhyphen"/>melech,</hi> hath commaunded mee a
+<pb facs="tcp:191464:15"/> certaine thing, and hath ſayde vn<g ref="char:EOLhyphen"/>to me, let no man knowe where about I ſende thee, and what I haue commaunded thee: 1, <hi>Sam.</hi> 21: 2. But it is not thus with the counſell of God, the king of kings and Lord of Lordes. The Prieſt ſhall die if his ſound bee not heard whe<g ref="char:cmbAbbrStroke">̄</g> he goeth into the holy place, <hi>Exod.</hi> 28. 35. As hee is a husband<g ref="char:EOLhyphen"/>man, becauſe hee muſt dreſſe the Vineyarde of the Lorde, that it might bring forth fruit. <hi>Luke</hi> 20. 9 and a buylder, <hi>verſe</hi> 17. becauſe hee muſt make the bodie of the people a Temple fitte for God to dwell in: ſo is hee a meſſen<g ref="char:EOLhyphen"/>ger, <hi>Ioel</hi> 33. 23. becauſe he muſt ca<g ref="char:EOLhyphen"/>rie tydinges. <hi>Eſay</hi> 52. <hi>chapt. verſe</hi> 7. and he hath diſcharged his du<g ref="char:EOLhyphen"/>tie, and done his meſſage beſt, that can ſay with <hi>Paule,</hi> I haue kept
+<pb facs="tcp:191464:16"/> nothing backe, but hath ſhewe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you all the counſaile of God. <hi>Act<g ref="char:punc">▪</g>
+               </hi> 20, 27: Let not <hi>Aarons</hi> oyle re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vpon his head, but runne downe on his beard, and go down to the verie skirts of his clothing. L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him that is a candle tinded after<g ref="char:EOLhyphen"/>warde light an houſe. Let Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without meanes beget <hi>Paul, Act<g ref="char:punc">▪</g>
+               </hi> 9: But let <hi>Paul</hi> be a meanes to wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other, and if he be a generall deb<g ref="char:EOLhyphen"/>ter, <hi>Rom.</hi> 1, 14: let him bee readie to diſcharge his debt, <hi>ver:</hi> 15, and deſirous to preach the Goſpel, be<g ref="char:EOLhyphen"/>cauſe it is the honour of the Apo<g ref="char:EOLhyphen"/>ſtle, 2, the power of God, 3, the ſaluation of the people. <hi>Ver.</hi> 6: Le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stewardes diſpoſe their maiſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goods to their gaine, Let the ſer<g ref="char:EOLhyphen"/>uant be blamed that hides his ta<g ref="char:EOLhyphen"/>lent: <hi>Mat:</hi> 25, 30: Let the fierie pil<g ref="char:EOLhyphen"/>ler go before the children of Iſrael
+<pb facs="tcp:191464:16"/> to the promiſed land, <hi>Exod:</hi> 13, 21 Let them preach which are bid to preach, when they ſee that they which are ſuſpended, and put to ſilence, <hi>Mat:</hi> 7, 37. <hi>Act:</hi> 5, 40, can not hold their peace.</p>
+            <p>Moiſture in ſpring remaines not ſtill in the place where it breedes, but haſteneth to the wa<g ref="char:EOLhyphen"/>tering of drier ſoiles. The running riuers fill vp the emptie places, as they paſſe by them. The Moone lendes her light vnto the worlde, which ſhe hath borrowed of the Sunne. A good ſtomacke recey<g ref="char:EOLhyphen"/>uing in the meate, ſendeth out nouriſhment with verie good proportion, to euerie member of the bodie, and <hi>Agabus</hi> receyuing from God more knowledge then other, imparts it to other. Thus you ſee the ende why the Lorde
+<pb facs="tcp:191464:17"/> makes knowne to <hi>Agabus</hi> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hee purpoſeth to bring <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſe: ſee alſo a litle the end whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Agabus</hi> hath in opening to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people the counſell of God.</p>
+            <p>Miniſters are fiſhers of men. <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 4. 19. to drawe them out of theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this worlde, wherein they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drowned, &amp; as the fiſhers are w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſhing their nets, <hi>Luk.</hi> 5. 2: ſo ſhou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they cleanſe their wordes fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> temporall gaine, from vainglori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and from flatterie, as <hi>Paule</hi> di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. <hi>Theſſ.</hi> 2. 5, 6. concerning gain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (ſaith he) we neuer vſed colour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> couetouſneſſe, God is record: co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cerning glorie, wee ſought n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> praiſe of men, neither of you n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of others: concerning flattery, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeake not as they that pleaſe me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but God which trieth our hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither yet did we euer vſe flatt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing
+<pb facs="tcp:191464:17"/> words: but is it thus with our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhers? God forbid but that there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be ſome, whoſe driſt is to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atch men, as it is, <hi>Luk.</hi> 5, 10. who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bor with <hi>Andrew, Iohn.</hi> 1. 41. to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raw their brethre<g ref="char:cmbAbbrStroke">̄</g> to ſee the <hi>Meſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as,</hi> and to beat downe the wals of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, like the ſhowte which beate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne the walles of <hi>Iericho, Ioſ.</hi> 6, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. but hee which onely leuels at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his marke, is a rare man, a verie <hi>Phaenix,</hi> &amp; flies alone, ſo few there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that ſeeke to beare him compa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie: but to ſpeake more generallie, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome fiſh for gaine, to ſee if they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an take a Parſonage, a Prebend, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deanerie, a Biſhoprike, and when they haue caught the fiſh, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſo many fiſhes as they can hold, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey lay away their net, &amp; wil fiſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lo<g ref="char:cmbAbbrStroke">̄</g>ger: which pope <hi>Iulius</hi> 2. ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>erued, &amp; therfore being requeſted
+<pb facs="tcp:191464:18"/> to make one <hi>Gylos</hi> a learned Frier Cardinall, to which in<g ref="char:EOLhyphen"/>tent when it was alleaged that, the man hadde learning and prea<g ref="char:EOLhyphen"/>ched dilligently. Nay quoth the Pope, that is the onely reaſon why I cannot make him Cardinall, that hee maye continue preaching ſtill, which hee would not if hee were Cardinall, being farre from that dignitie and cuſtome of the e<g ref="char:EOLhyphen"/>ſtate. The naming of a Frier brings to my remembrance the ſtory of a monke to beare him company, not much vnlike this, alwaies ca<g ref="char:EOLhyphen"/>ſting his eies to the ground, at laſt for his great humilitie was made Abbot, being Abbot he looked a<g ref="char:EOLhyphen"/>loft, ſaving hee looked downe<g ref="char:EOLhyphen"/>ward before, to ſee if he could find the keyes of the Abby gate, nowe hee had founde them hee would
+<pb facs="tcp:191464:18"/> looke no longer, but carry his countenance according to his cal<g ref="char:EOLhyphen"/>ling. It is not thus with <hi>Agabus,</hi> he gropeth not for gaine, for hee tel<g ref="char:EOLhyphen"/>leth them of a generall want ſhall come vppon themſelues. Other hunt after praiſe, theſe vſe colours of vaine affectation, braue their ſpeech, &amp; ſet it out with far ſought words, allegoricall matters, with which common vſe is not acquain<g ref="char:EOLhyphen"/>ted, prune their ſillables, mince their phraſes: giue theſe men a plaudite as the people do to <hi>Herod,</hi> ſaying: <hi>The voice of God and not of man, Act,</hi> 12. 22. you are for their tooth: let them not haue this, you ſhall haue no more of them, they are <hi>Chameleons</hi> alwaies gaping be<g ref="char:EOLhyphen"/>cauſe they liue by the aire, veſſels with two handles, you may carrie the<g ref="char:cmbAbbrStroke">̄</g> by the eares, whither you liſt.
+<pb facs="tcp:191464:19"/> Windmils that make no meal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but according as the blaſt endu<g ref="char:EOLhyphen"/>reth: it is not thus with <hi>Agabus</hi> hee tels the<g ref="char:cmbAbbrStroke">̄</g> plainely of that which might breede in them a genera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſlike.</p>
+            <p>Other vſe flattering words, and when they know that the peopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like the Prophet which will pro<g ref="char:EOLunhyphen"/>pheſie to them of wine &amp; ſtron<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drinke. <hi>Micah.</hi> 2. 11. tel them plea<g ref="char:EOLhyphen"/>ſant talke and ſpeake of their com<g ref="char:EOLhyphen"/>modities, and that <hi>Ieremie</hi> becau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he doth otherwiſe, ſhall be threa<g ref="char:EOLhyphen"/>tened: <hi>Ier.</hi> 11. 21. &amp; railed at, as Ie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 43. 2. When they conſider this ſay, they follow the counſel of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people, <hi>Pſal.</hi> 30. 10. ſpeake flatte<g ref="char:EOLhyphen"/>ring things vnto vs, propheſie e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rors, threaten vs not by the wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God, tell vs not of iudgeme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and with the falſe prophts. 2. <hi>Cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb facs="tcp:191464:19"/> 18. 11. They declare good with one accord and a generall conſent, &amp; with <hi>Balaam</hi> would faine ſpeak that which might bee pleaſant to <hi>Balacke,</hi> who therefore changed his ſtanding twice. <hi>Num.</hi> 23. <hi>Aga<g ref="char:EOLhyphen"/>bus</hi> doth not thus, who prophe<g ref="char:EOLhyphen"/>ſies but twice in all the Scripture, and both times of iudgements, once vppon one man, hee taketh <hi>Pauls</hi> girdle, and bindeth his own hands and feete, ſaying. <hi>So ſhall the lewes binde this man that oweth this girdle, Acts</hi> 21. 11. and this place telleth aforehande of a generall plague that ſhall heereafter ouer<g ref="char:EOLhyphen"/>run all the Nations of the world. Thus the holy ghoſt acquainteth <hi>Agabus</hi> with the purpoſe of God, that hee might acquaint the peo<g ref="char:EOLhyphen"/>ple with it, &amp; he ſignifieth <hi>y<hi rend="sup">e</hi>
+               </hi> ſame not for profite or glory or ſuch
+<pb facs="tcp:191464:20"/> like, but fore ſheweth the puniſh<g ref="char:EOLhyphen"/>ment (which other prophets alſo haue obſerued, in ſetting downe Gods iudgement to come) fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe reaſons hereafter following.</p>
+            <p>Firſt that wee may know that the puniſhments that befall vs, come not by chaunce or haphazard, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe they are foretold by God<g ref="char:punc">▪</g> they come from God as a rod fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our offences, and a ſcourge for ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinnes. The Lorde is the Bi<g ref="char:EOLhyphen"/>ſhop. 1. <hi>Pet.</hi> 2. 25. which goeth his viſitation, ſometime in mercie, and then he ſaith, <hi>I wil come in vnt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him: Reu.</hi> 3. 20: ſometime in iuſtice, and then he ſaith, <hi>I will come againſt him. Reu.</hi> 2. 5. 19.</p>
+            <p>Secondly to teach vs patience if the Dice bee already thrown, and the chaunce giuen, the game<g ref="char:EOLhyphen"/>ſter is content to take the poyn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:20"/> thed dice affordeth: if we know the miſerie that will befall, wee muſt arme our ſelues with pati<g ref="char:EOLhyphen"/>ence againſt they fall, not ſo much grudging that our caſe is no bet<g ref="char:EOLhyphen"/>ter, as comforting our ſelues it is no worſe. One reaſon of <hi>Iobs</hi> great impatience, was the ſodaine ru<g ref="char:EOLhyphen"/>ſhing in of afflictions, <hi>I was in wealth</hi> (ſaith hee) <hi>Iob</hi> 16. 12, and by and by God turned the Wheele, and brought all my buildings of much ioy, to a caſtle of com down: hee preſently ſet mee as a marke to ſhoote at, his arrowes compaſſed me about, the arrowes of the al<g ref="char:EOLhyphen"/>mightie were in me, and the ve<g ref="char:EOLhyphen"/>nom therof did drinke vp my ſpi<g ref="char:EOLhyphen"/>rits.</p>
+            <p>Thirdly, God will haue his iudgements fore ſhewed, to ſhew his patience before hee puniſh,
+<pb facs="tcp:191464:21"/> that wee might haue ſpace and time to repent: I reade of a Cap<g ref="char:EOLhyphen"/>taine, who alwaies when he laide ſiege to any citie, would the firſt day ſet vp a white tent in token of mercy, the ſecond day a black ten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in token of ſeueritie, the third day a red tent in token of bloud, to ſhewe if the inhabitants would not yeeld, hee would vtterly de<g ref="char:EOLhyphen"/>ſtroy them: <hi>Theodoſius</hi> the Empe<g ref="char:EOLhyphen"/>rour ſuffered not his men to aſ<g ref="char:EOLhyphen"/>ſault any towne before ten daye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were paſt, cauſing this proclama<g ref="char:EOLhyphen"/>tion to bee made vnto them, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he graunted theſe ten daies to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end they might accept the taſte <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his clemencie, before they had ex<g ref="char:EOLunhyphen"/>perience of his power. God is man of warre, the Lord of hoſts his name, he can beſiege our Ci<g ref="char:EOLunhyphen"/>ties, ſcale our wals, ſacke our bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:21"/> warks, ſet all his creatures in bat<g ref="char:EOLhyphen"/>taile aray to charge vppon vs, and ſcatter the wings of all the battels we are able to make againſt him: but firſt he cauſeth a trumpet to be blowne to giue warning, ſets vp his ſeuerall tents, giues many daies reſpit, ſendes his heraldes with wordes of defiance, to proclaime open war againſt vs, and this hee doth that wee might followe the practiſe of the weaker King: <hi>Luke</hi> 14. 31. While wee know he is yet a great way off, ſend embaſſadors vnto him, and deſire conditions of peace.</p>
+            <p>When <hi>Iacob Gen.</hi> 33. ſeeth his bro<g ref="char:EOLhyphen"/>ther <hi>Eſau</hi> come againſt him with foure thouſand men, a greater power then hee is able to re<g ref="char:EOLhyphen"/>ſiſt, hee prouideth to meete him, and to appeaſe <hi>Eſaus</hi> wrath,
+<pb facs="tcp:191464:22"/> takes a preſent with him and deli<g ref="char:EOLhyphen"/>uers it: <hi>Eſau</hi> ſeeing the great hu<g ref="char:EOLhyphen"/>militie of his brother, is not now the ſame man he was, but altered as much as the fleſh of <hi>Naaman,</hi> when hee hadde waſhed in <hi>Ior<g ref="char:EOLhyphen"/>dane:</hi> 2. <hi>Reg.</hi> 5. for whereas before hee did diſgrace him, <hi>Gene.</hi> 27. 36. nowe hee doth embrace him: wheras before he purpoſed to take him by the throat &amp; kill him, now he falleth vpon his necke and kiſ<g ref="char:EOLhyphen"/>ſeth him. The Scripture wiſheth vs to take that courſe with our god as <hi>Iacob</hi> doth with his brother, firſt to meete God, and this is <hi>Amos</hi> counſell, chap. 4. 12. for whereas hee had ſaid God had burnt them with hunger ſmit them with bla<g ref="char:EOLhyphen"/>ſting and mildew, with peſtilence, &amp; ſo forth, thus wil I do vnto thee ſaith he O Iſrael: becauſe I will do
+<pb facs="tcp:191464:22"/> this vnto thee, prepare to meete thy God, O Iſrael. And then do we prepare to meete God, when we gird our ſelues, and lament, as it is, <hi>Ioel</hi> 1, 13: when wee go to acquaint our ſelues with God, as it is, <hi>Iob</hi> 22 21. Then do wee carry a preſent with vs, when we take vnto our ſelues wordes, and turne to the lord, as it is, <hi>Hoſ.</hi> 14. 3. when with the <hi>Iſraelites.</hi> 1. <hi>Sam:</hi> 7. 6. We draw water out of our hearts, &amp; powre it out before the Lord, when with <hi>Marie, Luke</hi> 7. 38: wee ſtande wee<g ref="char:EOLhyphen"/>ping, and be deſirous that our eies which haue been as windows to let ſinne in, ſhould be as doores to let ſinne out: then do wee offer it vp, when we kiſſe the Sonne, as it is, <hi>Pſal.</hi> 2, 12. and render vnto him the fruit of the lips, as it is, <hi>Heb:</hi> 13, 15. Thus doing, when the Lorde
+<pb facs="tcp:191464:23"/> ſeeth our great humilitie, our tean which he put into his bottel, whe<g ref="char:cmbAbbrStroke">̄</g> our hearts do melt, hee ceaſeth with <hi>Eſau</hi> from the fierceneſſe of his wrath, and will not ſuffer his whole diſpleaſure to ariſe: but i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wee abuſe his patience, and take thereby occaſion to ſinne, we ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know that his iudgments, which haue feet of wooll, &amp; come ſlow<g ref="char:EOLhyphen"/>ly, haue armes of braſſe, and ſtrik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſurely. If faults be ſuffered in hope of amendmente, yet after, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hope bee none, howe ſhall there bee ſufferance? forbearance is no quittance, though God take daye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a time, yet he payth truly at the length, the longer the wicked ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the ſcore, the harder will be the reckoning when the pay<g ref="char:EOLhyphen"/>ment come: they long ſwimme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ſinne, but it is to make the
+<pb facs="tcp:191464:23"/> ſinking more ſorrowfull: all the while God is pacient, and puts vp our ſinnes, hee is lifting vppe his blowe, and a ſtroke or blowe, the higher it is lifted the heauyer it falleth, and when God hath tried vs a while with mercie, ſeeking our good and cannot bowe vs, hee will vſe ſeueritie, and breake vs in peeces like a Potters veſ<g ref="char:EOLhyphen"/>ſell.</p>
+            <p>Laſtly, God wil haue <hi>Agabus</hi> re<g ref="char:EOLhyphen"/>ueale the iudgements he mindeth to ſend vpon the worlde, to take from the worlde all excuſe of ignoraunce, as if the Lorde ſhould ſay, come hither <hi>Agabus,</hi> thou ſeeſt the ſinne wherevnto the worlde is inclining, men be<g ref="char:EOLhyphen"/>gin to giue themſelues to all kind of ryot and exceſſe, the drun<g ref="char:EOLhyphen"/>kard makes in his body a ſink, the
+<pb facs="tcp:191464:24"/> glutton a dunghill, I will deale with them as a mother doth with her childe, when once he begin<g ref="char:EOLhyphen"/>neth to play with his meate, ſhee takes his meat from him. I wil call a famin on the land, and break the ſtaffe of bread, men ſhall bee hun<g ref="char:EOLhyphen"/>grie, and thirſtie, their ſoule ſhall faint in them, the people ſhall crie for bread, and all plentie ſhall bee forgotten, and becauſe the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall not ſay, had we knowne that thou didſt mind in ſuch grieuous ſort to afflict vs, we would haue ſtricken our hearts with the rod of repentance, beaten downe the pleaſures we delighted in, raſed e<g ref="char:EOLhyphen"/>uill actions, corrected vntamed deſires, and beene enemies to the diſordred will of the ſoule, the a<g ref="char:EOLhyphen"/>mendment of our liues ſhoulde haue beene as <hi>Moſes,</hi> and ſtande in
+<pb facs="tcp:191464:24"/> the gap to turne away the wrath from vs: becauſe, I ſay, they ſhalbe without excuſe, ſtand vp <hi>Agabus,</hi> and ſignifie to them from me, the famine that is to come, tell them I wil ſend not a dearth, when ſome men may haue plentie, if they will pay deare for it, but a famine, and a great famine, like the famine of <hi>Samaria,</hi> 2. <hi>Reg.</hi> 6. when they ſhall not get meate for money: not in one Countrey alone, for then the plentie of one might ſupplie the penurie of another, but the fa<g ref="char:EOLhyphen"/>mine ſhall bee generall in euerie quarter: ſtande vp <hi>Agabus</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell them this: let thy words be as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lightning and go before, and my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgement as a thunder clap ſhall follow. And <hi>Agabus ſtoode vp and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ignified by the ſpirit, that there ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a great famine ouer all the worlde.</hi> If
+<pb facs="tcp:191464:25"/> God in this ſort open his mouth to ſpeake, before hee lift vp his hand to ſtrike, let none plead ig<g ref="char:EOLhyphen"/>noraunce, nor yet blame God though his iudgements fall vpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them: Let not the ſtanders b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blame the Archer, though the ar<g ref="char:EOLunhyphen"/>row hurt the<g ref="char:cmbAbbrStroke">̄</g>, when he that ſhoo<g ref="char:EOLhyphen"/>teth cries, away, away, before th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> arrow co<g ref="char:cmbAbbrStroke">̄</g>mes: for the careful for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warning ſhould haue made the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preuent the daunger that was hand, which alſo came to pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnder <hi>Claudius Caeſar.</hi> Mans wra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be eſcaped by ſeeking refug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or flying from it: but if gods wra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be kindled, whither ſhall we fli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he will find vs out in the top of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> higheſt, or bottom of the deep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> places in the world: <hi>Pſal.</hi> 139, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom ſhall we run for refuge? the woman, when the famine
+<pb facs="tcp:191464:25"/> extreame, ſhall run vnto the king, ſaying, <hi>Help me, O Lord the king,</hi> the king himſelf muſt anſwere, <hi>Seeing the Lord doth not ſuccour thee, howe ſhould I helpe thee?</hi> 2. <hi>Reg.</hi> 27. Gods threatnings therefore muſt not be thought as ſcarcrowes, or bulbeg<g ref="char:EOLhyphen"/>gers, to fray children withall: for God is a ſowler, and if hee ſettes a ſnare, he will not take it vp before hee takes vs in it. <hi>Amos</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. 5. If a Trumpet be blowne in the Citie, ſhal not the people tremble? If the Lion roare, who will not bee afrayde? But becauſe a Lion roareth not in the Forreſt, when hee hath no prey, nor a Lions Whelpe crie out of his denne, if hee haue taken nothing, nor <hi>Agabus</hi> threaten, except there be ſome great occaſion, nor the fa<g ref="char:EOLhyphen"/>min come, as it doth in the time of
+<pb facs="tcp:191464:26"/> 
+               <hi>Claudius</hi> except it bee ſent for. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vs a little ſee, what ſinne eſpecia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it was, that went to call for it: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was truly ſaid of <hi>Claudius,</hi> whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was vntruly ſpoke<g ref="char:cmbAbbrStroke">̄</g> of Chriſt. <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 11. 19. <hi>Behold a glutton and drinker <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wine.</hi> If <hi>Ieroboam</hi> ſinne, he make<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iſrael to ſin: if the ſquared ſton<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſlip downe, a number of litle on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> follow after. The life of the kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a white for the Court, and nob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lity is an aime for the people. Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> degrees leuell at markes of high<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perfection: whereupon I inferr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that gluttonie and drunkenneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reigned at this time. Gut was th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> god, the pau<g ref="char:cmbAbbrStroke">̄</g>che was a powdrin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tub, the bellie a coupe, a Poulte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coupe, or rather a <hi>Noahs</hi> arke, vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tailed with I know not how ma<g ref="char:EOLunhyphen"/>nie kinde of creatures: wherevpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I note that to bee true, which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:26"/> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Viſ.</hi> 11. 13. Wherby a man ſin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth, by the ſame alſo he ſhall bee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uniſhed. <hi>In Iewry was God knowne, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> name was great in Iſrael, hee gaue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s law vnto Iacob, his ſtatutes and or<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nances vnto Iſrael. He had not dealt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with other nations, neither had the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athen knowledge of his law.</hi> But <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen they deſpiſed his word, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thoſe that brought it beate one, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illed another, ſtoned another, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od threatned that the Kingdome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God ſhuld be taken from them, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> giuen to a nation which ſhould <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring foorth the fruits thereof. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at.</hi> 21. 43. which came to paſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the word of god was remo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed from them to the Gentils. As <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od did deale in the olde Church <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith the Iewes, ſo in the newe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hurch with the Epheſians, vpon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom God did ſhine by the light
+<pb facs="tcp:191464:27"/> of his Goſpell, and they were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt glad, that the light did ſpri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vp to them which before did ſiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darkneſſe and in the ſhadowe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> death, but when they forſoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their firſt loue, God threatened <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remoue the candleſticke out of hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place, <hi>Reue.</hi> 2. 5. &amp; was as good <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his word, when hee put out the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> candle, which done, they fell <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſleep, falling ſicke of ſundry here<g ref="char:EOLhyphen"/>ſies, died at laſt of the plague <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mahomet.</hi> As God brings a famine of his word, when men are as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were ouergorged with it: ſo he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brings a famin of bread, when me<g ref="char:cmbAbbrStroke">̄</g> prepare bread for laughter, <hi>Ec.</hi> 10. 19. when their ſacietie wil not ſuf<g ref="char:EOLhyphen"/>fer them to ſleepe. <hi>Ecl.</hi> 5. 11. Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they eate the Lambes out of the flocke, and calues out of the ſtall, <hi>Amos</hi> 6. 4. eate vntil it come ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:27"/> at their noſtrils, and bee lothſome vnto the<g ref="char:cmbAbbrStroke">̄</g>, as it is <hi>Num.</hi> 11. 20. When men which ſhuld be ſober are be<g ref="char:EOLhyphen"/>come trencher-men, not tarrying till hunger ouertake them, but preuenting it by an artificial appe<g ref="char:EOLhyphen"/>tite, ſo ſawcing their meates, that they turne ſubſtance into acci<g ref="char:EOLhyphen"/>dent, and nature into art: when me<g ref="char:cmbAbbrStroke">̄</g> I ſay are come to this paſſe that their greedines knoweth no mea<g ref="char:EOLhyphen"/>ſure, and variety exceedeth all the bounds thereof, then God in to<g ref="char:EOLhyphen"/>ken of reuenge, ſends a ſcarcitie, that me<g ref="char:cmbAbbrStroke">̄</g> ſhalbe glad to eate in time for ſtrength, &amp; not for dru<g ref="char:cmbAbbrStroke">̄</g>kennes, as it is <hi>Ecl.</hi> 10. 17, &amp; do what they can their mouths ſhall not make their fleſh to ſin, as it is <hi>Eccle.</hi> 5. 5: thus was it with <hi>y<hi rend="sup">e</hi>
+               </hi> prodigal child, <hi>Luke</hi> 15. And thus with <hi>Clau<g ref="char:EOLhyphen"/>dius</hi> who was made Emperour
+<pb facs="tcp:191464:28"/> of <hi>Rome, An.</hi> 42. and raigned 13. yeeres and nine moneths: of this famin ſpeaketh <hi>Suetonius in Claud. Oroſ.</hi> 7. <hi>cap.</hi> 6. Thus was it with the world at this time, but the puniſh<g ref="char:EOLhyphen"/>ment being generall, I marke thy iudgements O Iudea, more then the calamitie that befalleth other natio<g ref="char:cmbAbbrStroke">̄</g>s, becauſe as it appeareth ver. 7. you being before more bleſſed the<g ref="char:cmbAbbrStroke">̄</g> other, are now more diſtreſſed then other: if thou didſt ſow, thou didſt find the ſame yere an hu<g ref="char:cmbAbbrStroke">̄</g>dred fold in eſtimation, if thou ſowed<g ref="char:punc">▪</g> a little ſeed, but an handful of corn<g ref="char:punc">▪</g> and that on the mountaines, nay, on the top of the mountaines, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fruite thereof did ſhake like th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trees of <hi>Libanon,</hi> thy threſhing d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt vnto the vintage, and the vin<g ref="char:EOLhyphen"/>tage to the ſowing time, the plow<g ref="char:EOLhyphen"/>man did touch the mower, &amp; the
+<pb facs="tcp:191464:28"/> treader of grapes him that ſowed the ſeed. When one kind of fruit was ripe another followed, and e<g ref="char:EOLhyphen"/>uery one in courſe: thou didſt eate thy bread in plenteouſnes, eate the old ſtore, and carry out the old be<g ref="char:EOLhyphen"/>cauſe of the new, &amp; ſo didſt laugh at death, becauſe thy greateſt wa<g ref="char:cmbAbbrStroke">̄</g>t was ſtore. But ſee an alteration, thy land, this thy moſt fruitfull land is made barren, the meate is cut off before thine eies, ten women doo bake their bread at one Ouen, and deliuer thy bread by weight: if thou ſoweſt the ſeede of an <hi>Homer,</hi> which is 100. pottles, it yeelds but an <hi>Epha,</hi> which is but 10. pottles, thou haſt but 10. of <hi>y<hi rend="sup">e</hi>
+               </hi> 100. &amp; looſe the principall, thou doſt gage out thy la<g ref="char:cmbAbbrStroke">̄</g>ds, thy vineyards, thy houſes becauſe of <hi>y<hi rend="sup">e</hi>
+               </hi> famine, &amp; doſt howle for the wheate and the barly, be<g ref="char:EOLhyphen"/>cauſe
+<pb facs="tcp:191464:29"/> the harueſt of the fielde i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> periſhed: but let me tarry a little it our own land, &amp; leaue Iudea till I come to it in the verſe following: God embraced our land ſo kindly, that we ſuckt the ſap of wealth fro<g ref="char:cmbAbbrStroke">̄</g> branche and roote. The fruit of our ground was bleſſed, for God crowned <hi>y<hi rend="sup">e</hi>
+               </hi> yeere with his good<g ref="char:EOLhyphen"/>neſſe, the Lord did heare the hea<g ref="char:EOLhyphen"/>uens when they deſired raine for the earth, the heauens did heare the earth, the earth did heare the corne, &amp; the corn did heare man, and that ſame bleſſing did come vpo<g ref="char:cmbAbbrStroke">̄</g> vs which god promiſed to Iſ<g ref="char:EOLhyphen"/>rael, <hi>Thou ſhalt lend to other nations<g ref="char:punc">▪</g> but ſhalt not borrow of any. Deu.</hi> 28. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but of late, ſpecially this laſt yeere<g ref="char:punc">▪</g> the ground hath not yeelded vnto vs her ſtrength, <hi>Baſhan</hi> is waſted and <hi>Carmell</hi> and the flower of <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>banon</hi> is waſted, Gods creature
+<pb facs="tcp:191464:29"/> haue bin deafe, becauſe God him<g ref="char:EOLhyphen"/>ſelfe hath bin as one that heareth not, ſo <hi>y<hi rend="sup">e</hi>
+               </hi> we haue bin conſtrained to borrow of other natio<g ref="char:cmbAbbrStroke">̄</g>s, but are not able to lende any. Thus God hath puniſhed the ſeed of our ſoile for the ſin of our ſoule, &amp; becauſe our folly hath bin in the bloſſom, our fruit hath not budded out of the earth. <hi>Sodome</hi> was deſtroied, but fulnes of bread a ſin of <hi>Sodom,</hi> ſtill continued, men haue farced their bodies &amp; ſtarued their ſouls: nature is not the Cater, frugalitie the purſebearer, not hunger the cooke to aſſigne the diet. There was but one <hi>Bel God</hi> but many bel<g ref="char:EOLhyphen"/>ly gods, which haue ſaid in effect with the Epicures, <hi>Let vs eate and drink, for to morrow we muſt die.</hi> Quaffing hath bin the only grace: men haue miſſpent their time in bibing &amp; ſhaking ha<g ref="char:cmbAbbrStroke">̄</g>ds ouer their
+<pb facs="tcp:191464:30"/> licour profoundly, carowſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hunters hope, drowned th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoules in a gallon pot, made th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bellies quagmires, &amp; their brea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſmell like brewers aprons, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue loued the wine bottels, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is <hi>Hoſ.</hi> 3. 1. made themſelues ſic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with flagons. <hi>Hoſ.</hi> 7. 5. drinke wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in bowles, <hi>Amos</hi> 6. 6. &amp; tranſgre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by it. <hi>Hab.</hi> 2. 5. In <hi>Aſſuerus</hi> time the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chaunged veſſell after veſſell an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dranke wine in aboundance. <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 19. but they dranke by an order<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none might compell: but ſinc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they drink without order, enforc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one another, giue their neighbo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drinke, and make him dronke al<g ref="char:EOLhyphen"/>ſo, as <hi>Hab.</hi> 2. 15. Sette thy foote to mine and drinke to the ſoule of ſuch a body, and the health of my lord or Lady, and by drinking to healths they drink themſelues out
+<pb facs="tcp:191464:30"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f health, they doo carrowſe it, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich they ſay is a Dutch worde, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Engliſh of it may be this, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drinke all the drinke out of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot, al the money out of his purſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l the wit out of the head, and all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e honeſtie out of the bodie, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at is a clean carrowſe. Theſe fel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes if they may haue the but<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, care not though (as it falleth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut, <hi>Gen.</hi> 40. 22.) the baker be han<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed vp. Thus becauſe men, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough they had the ear-marke of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eprobates follow the ſame ſinnes with full ſaile, to which <hi>Claudius</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd other in the world had bound <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelues apprentiſes, no maruel <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough now alſo the Lord dooth vſe the like corection. Miſerie co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>meth not forth of the duſt, neither doth affliction ſpring out of the earth. <hi>Iob.</hi> 5. 6. but our fruitful land
+<pb facs="tcp:191464:31"/> is made barren for the wickedne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them that dwell therein. <hi>Pſ.</hi> 10<g ref="char:punc">▪</g> 34. The earth our mother is out of heart, dead and barren as the wombe of <hi>Sarah,</hi> &amp; God hath ſo rotted the ſeed, pinched the blade, ſhaken the eare, that it hath not anſwered our expectation, neither vnder the flaile, in the mill, in the dough, or in the ouen, &amp; that curſe is come vpon vs, which <hi>Iob</hi> ſpea<g ref="char:EOLhyphen"/>keth of <hi>cap.</hi> 31. 40: for thiſtles grow in ſtead of wheate, and cocle in ſtead of barley. In the ninth of <hi>Matt. ver.</hi> 37. The harueſt is great, but the labourers are fewe, the Lorde there ſpeaketh by way of compariſon, comparing the num<g ref="char:EOLhyphen"/>ber of the elect to a plentifull har<g ref="char:EOLhyphen"/>ueſt. But to ſpeake ſimply of our tyme, the harueſt is ſmall, and the labourers are many: ſmall, I ſay,
+<pb facs="tcp:191464:31"/> for though the mower hath filled his armes, &amp; he that bound vp the ſheaues his boſome, yet the yeel<g ref="char:EOLhyphen"/>ding hath not bin like the increaſe of other yeares. Speake by way of compariſon, and pray the Lord of the harueſt to ſend forth labourers into harueſt. <hi>Matt.</hi> 9. 38. but ſpeake ſimply, and pray the Lord of the harueſt to ſende forth a plentifull harueſt for the labourers to bring into the barne: and if we ſee that our praier goeth vp, &amp; Gods mer<g ref="char:EOLhyphen"/>cy commeth downe, that our land bring forth her wonted increaſe, then ſinne no more, leaſt a worſe thing happen vnto thee. <hi>Iohn:</hi> 5. 14 Let vs hereafter vſe ſobrietie, not liue to eate, but eate to liue, and taking our portion fitte for nou<g ref="char:EOLhyphen"/>riſhment, content our ſelues with it: ſince <hi>Iob</hi> ſpeaketh of appointed
+<pb facs="tcp:191464:32"/> food, <hi>Iob.</hi> 23. 12. and ſince natu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is content with litle, &amp; grace wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>leſſe, let vs bee meaſurable of fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ding, meaſurable in drinking, r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther of too ſparing, then of too l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>berall a diet: and thus much of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> famin fore ſhewed to <hi>Agabus,</hi> b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means of the ſpirit, to the end th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee might ſignifie the ſame vn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the people, &amp; brought in the dai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Claudius,</hi> becauſe of exceſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The effects follow.</p>
+            <p>
+               <hi>Then the diſciples, &amp;c.</hi> We are de<g ref="char:EOLunhyphen"/>ters, not onely to God, to who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we owe loue and obedience, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> debters to our ſelues, debters t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our neighbours: to our ſelues w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> owe mortification of the corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> affections that are in vs: wee a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> debters to the fleſh, ſaith the A<g ref="char:EOLhyphen"/>poſtle, that we ſhould not liue a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter it: but we are bad pay maiſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:32"/> either not at all diſcharging this debt, or elſe putting it of from day to day, ſaying of the temple of our body, as the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewes of their temple <hi>Hag.</hi> 1. 2. The time is not yet come to build the houſe of the Lord. To our neighbours, beſides the loue of the hart. <hi>Rom.</hi> 13, 8, the inſtruc<g ref="char:EOLhyphen"/>tion of the mouth. <hi>Rom:</hi> 1. 14: wee owe good works, &amp; the bleſsing of them which are readie to pe<g ref="char:EOLhyphen"/>riſh ſhould come vpon vs, as vpo<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Iob, cap:</hi> 29. 13. but mens harts are ſo hard frozen, that the ſhining Sun of pitie cannot thaw them, and e<g ref="char:EOLhyphen"/>uery mans ſong is, I am neareſt my ſelfe, and ſo they ſcrape and ſcratch and heape, &amp; lay vp for them and theirs, and being as braſſe &amp; iron, turne both hand and heart cleane away, when pitifull ſuit is made vnto them for ſome comfort, or
+<pb facs="tcp:191464:33"/> elſe they ſay come againe anothe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time, whereas they haue nowe to help them: it is not thus with the Diſciples in this place, but they ſtay them vppe with their libera<g ref="char:EOLhyphen"/>litie, which are more diſtreſſed then themſelues, and being like the <hi>Macedonians.</hi> 2. <hi>Cor.</hi> 8. in great afflictions are prompt to helpe o<g ref="char:EOLhyphen"/>thers. The firſt thing then that I note in them, is a readineſſe with<g ref="char:EOLhyphen"/>out delay, to teach vs as ſoone as wee knowe that extremitie, to re<g ref="char:EOLhyphen"/>lieue the neceſsitye of our bre<g ref="char:EOLhyphen"/>thren: the birde droupes in the hande while the head conſiders whether hee ſhall let her go, or hold her ſtil, and the good worke dieth in the birth, when we think, can I ſpare it or no, ſhall I giue it away? &amp;c. Delaying hold faſts are like a badde pay maiſter, who
+<pb facs="tcp:191464:33"/> knowing that hee muſt pay the debt, yet bragges with the mo<g ref="char:EOLhyphen"/>ney in his purſe, a day or two be<g ref="char:EOLhyphen"/>fore, like him that goeth to han<g ref="char:EOLhyphen"/>ging, he delayth as long as he can, and when he commeth to moun<g ref="char:EOLhyphen"/>ting vppon the ladder, falleth to preaching at euerie ſteppe. <hi>Zache</hi> making his will and Teſtament, <hi>Luke</hi> 19. 8: payeth his debts, gi<g ref="char:EOLhyphen"/>uing foure-fold reſtitution, where hee had vniuſtlie taken, and be<g ref="char:EOLhyphen"/>queatheth legacies the halfe of my goodes I giue to the poore: hee ſayeth not, I haue giuen as a bragger, or I will giue as a de<g ref="char:EOLhyphen"/>layer, but I do giue, as his owne executer: ſome fewe will giue in health, but more in ſickeneſſe, almoſt all of abilitie after death, will haue manye Gownes, or ſuch and ſuch a Dole gyuen.
+<pb facs="tcp:191464:34"/> a gift after death is lead, in ſicke<g ref="char:EOLhyphen"/>nes is ſiluer, in health is gold, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the diſciples here not to tar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but ariſe and meet a righteous pe<g ref="char:EOLhyphen"/>tition in the teeth, &amp; be intreated before wee bee asked, is a iewell which cannot be eſteemed. Whe<g ref="char:cmbAbbrStroke">̄</g> we are in aduerſitie, wee think<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men can neuer come time enoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuccour vs, let vs take this mea<g ref="char:EOLhyphen"/>ſure for other. Perfect co<g ref="char:cmbAbbrStroke">̄</g>paſsio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to preuent the hungry, ere th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> begger deſire vs. Charitie is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perfect, when crauing exhor<g ref="char:EOLhyphen"/>teth vs.</p>
+            <p>Beneuolence is then ful of grace and goodneſſe, when it hath be<g ref="char:EOLhyphen"/>ſides the quantitie, readines with<g ref="char:EOLhyphen"/>out prolonging ſpoken of, 2. <hi>Cor.</hi> 9. 5. Secondly willingneſſe with<g ref="char:EOLhyphen"/>out grudging, <hi>verſ.</hi> 7. The forme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of theſe qualities wee haue ſeene
+<pb facs="tcp:191464:34"/> in theſe Antiochians by the cir<g ref="char:EOLhyphen"/>cumſtance of the time, the better we ſhall perceiue, if wee conſider that they had not a law to compell them, nor yet a precept from the higher powers, commaunding the<g ref="char:cmbAbbrStroke">̄</g> to ſend ſuccor, as they would aunſwere to the contrarie at theyr perill, but when they knewe the famine waxed very ſore at <hi>Ieruſa<g ref="char:EOLhyphen"/>lem,</hi> of their own accord euery ma<g ref="char:cmbAbbrStroke">̄</g> purpoſed to ſende ſuccour. If <hi>Za<g ref="char:EOLhyphen"/>che</hi> be ready to receiue Chriſt, and therefore comes from the tree ha<g ref="char:EOLhyphen"/>ſtily, let him alſo bee willing to re<g ref="char:EOLhyphen"/>ceiue him ioyfully. <hi>Luke</hi> 19. 6. When the ſcripture commandeth the matter of goodneſſe, it ſets out the maner of doing good, that we might not ſinne in the maner, as if it commandeth to heare, to reade, to ſuffer, to pray, to giue, it tea<g ref="char:EOLhyphen"/>cheth
+<pb facs="tcp:191464:35"/> howe to heare, <hi>Mar.</hi> 4. 24. howe to reade, <hi>Matth.</hi> 24. 15. howe to ſuffer, <hi>Matth.</hi> 5. 10. howe to pray, <hi>Luke</hi> 11. 1. howe to giue, <hi>Philemon</hi> 14. To giue rea<g ref="char:EOLhyphen"/>dily is to doo good, to giue wil<g ref="char:EOLhyphen"/>lingly is to do wel. A man may ſin in doing good, but cannot offende in doing well: <hi>Abimelech</hi> doth ill but with a pure heart, <hi>Gen.</hi> 20. 5. Contrariewiſe, a man may doo good but with a bad minde, and thus hee that doth good againſt his will doth euill, lette therefore a forewarde gift &amp; voluntarie of<g ref="char:EOLhyphen"/>fering meete togither, let readie<g ref="char:EOLhyphen"/>neſſe and willingneſſe kiſſe each other, go hande in hande like friendes, arme in arme like man and wife, be as <hi>Hercules</hi> two twins, liue and die together.</p>
+            <p>
+               <hi>The Diſciples.</hi> He that planteth
+<pb facs="tcp:191464:35"/> a vineyard ſhould eate of the fruit, hee that feedeth a flocke, ſhoulde taſte of the milke: there muſt needes be a famine of the bread of life, by ſtaruing the oxe that ſhuld treade out the corne. The church of <hi>Antiochia</hi> beeing planted by the Church of the Iewes, as ap<g ref="char:EOLhyphen"/>peareth in this Chapter, and theſe Diſciples as good ſchollers, hauing learned the word of God of the brethren in Iudea, are ve<g ref="char:EOLhyphen"/>ry willing, yea, hough <hi>Opus</hi> &amp; <hi>v<g ref="char:EOLhyphen"/>ſus</hi> bee readie to knocke at theyr owne doore, to doo good and to diſtribute to thoſe which had inſtructed them, aſſuring them<g ref="char:EOLhyphen"/>ſelues they coulde not offer their ſacrifice on a better Altar. Lette all therfore generally, if they haue not hardened their
+<pb facs="tcp:191464:36"/> faces, as it is <hi>Pro.</hi> 21. 29. Fil their f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ces with ſhame, as it is <hi>Pſal.</hi> 83. 16<g ref="char:punc">▪</g> which ſpoyle the Lord in tithes &amp; offerings, as it is <hi>Mal.</hi> 3. 8. eſpeci<g ref="char:EOLhyphen"/>ally lette cormorant Patrones which crop &amp; girdle the mainte<g ref="char:EOLhyphen"/>nance of miniſters, drinke ſcorne<g ref="char:EOLhyphen"/>fulneſſe like water, as it is <hi>Iob.</hi> 34<g ref="char:punc">▪</g> 7. and couer themſelues wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their confuſion as with a cloake as <hi>Pſal.</hi> 109. 29. It were in theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes good friendly dealing, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when a Patron lifts a clarke vp t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the window, he would ſay, I wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let out this benefice to the third<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nay would he would but ſay con<g ref="char:EOLhyphen"/>cerning the benefice, as one harlo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth to another concerning the child, 1. <hi>Reg.</hi> 3. 26. Let it be neithe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mine nor thine, but diuide it. Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they will ſay, the Apoſtles were poore, <hi>Paul</hi> wrought with his
+<pb facs="tcp:191464:36"/> hands, and theſe haue the deuoti<g ref="char:EOLhyphen"/>on of <hi>Iudas,</hi> when he ſpake of the oyntment, hee was a theefe and bare the bagge. I would to God there were not as bad day theeues as night theeues, which grinding the faces of the churchmen, carrie all the tithes into their owne barnes. There were neuer ſo ma<g ref="char:EOLhyphen"/>ny benefices without charge, as there are nowe charges without benefices. The foxes ſpoken of <hi>Can.</hi> 2. 15. haue eate vp ſheepe and ſhepheards both, and the mer<g ref="char:EOLhyphen"/>chants which haue broke into the Church haue done more hurt by bringing in ignoraunce and A<g ref="char:EOLhyphen"/>theiſme, then thoſe which Chriſt whipt out of the temple. In the 10. of <hi>Luke verſ.</hi> 30. He that went down from <hi>Ieruſalem</hi> fell amongſt theeues, but now hee that will go
+<pb facs="tcp:191464:37"/> vp to <hi>Ieruſalem</hi> (you knowe my meaning) ſhall fal among theeues which will rob him of all. You ſhall haue a Patron or <hi>Chapman,</hi> who hath bought an aduouſon, which ſaith, I wil giue a preſenta<g ref="char:EOLhyphen"/>tion, but he will giue like the de<g ref="char:EOLhyphen"/>uill, <hi>Mat.</hi> 4. 9. he will giue with conditions as this, you may threſh the corne in the Parſonage barne, to auoide ſuſpition, but if you will lette it be ſolde to my beſt commo<g ref="char:EOLhyphen"/>ditie, contenting your ſelfe with the ſtraw, which is the grea<g ref="char:EOLhyphen"/>ter part, and ſmall tithes which are a priuie thing, you ſhall haue my preſentation. The very name of a Parſon carrieth meate in the mouth, and will gette you credit whereſoeuer you come.</p>
+            <p>Thus with his craft hee cau<g ref="char:EOLhyphen"/>ſeth him to yeelde, and hee go<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:191464:37"/> into a liuing as an oxe that go<g ref="char:EOLhyphen"/>eth to the ſlaughter, as a foole to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſtocks for correction, or as a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irde haſteth to the ſnare, not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nowing that hee is in daunger, beeing preſented, hee thinkes his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arthing good ſiluer, and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore holdes vppe his beake, ſoares in the aire, ſpeakes bigge, the rod of pride is in his mouth, as it is <hi>Prou.</hi> 14. 3. Examine him of his en<g ref="char:EOLhyphen"/>terance, he will not <hi>St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cke</hi> to <hi>lie,</hi> but pumpe out one after an<g ref="char:EOLhyphen"/>other, hee thinkes truth is like a garment, and the leſſe hee vſe it, the longer it continues: you ſhall heare him vſe hunting othes, and ſwere by no beggars he comes as freely by his liuing as any man in England. Thus like a landhounde hee cares not howe much hee ſpendes his
+<pb facs="tcp:191464:38"/> mouth though he ſmell nothing, for circumſtances ſhewe, that hee like a ſimple ſilly aſſe muſt beare the burden, and yet bee conten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with a durtie ſtable: but you mar<g ref="char:EOLhyphen"/>uel that ſuch a Symoniſt is ſuffered to continue his liuing, ſince laws haue well prouided to the con<g ref="char:EOLhyphen"/>trarie: I tell you the iuggling bartering is now ſo cloſe, that neither Hooke nor Crooke can pull him out at the doores, that thus hath come in at the Win<g ref="char:EOLhyphen"/>dow.</p>
+            <p>Where ſhall you finde an <hi>A<g ref="char:EOLhyphen"/>gabus,</hi> a Patron like <hi>Abraham,</hi> that beares ſuch an heroical mind, that hee will not take ſo much as a threed or a ſhoo-latchet of <hi>Mel<g ref="char:EOLhyphen"/>chizedech, Gene.</hi> 14. 23? Where ſhal you finde a <hi>Dauid,</hi> a patrone like <hi>Dauid</hi> who wil bridle his affectio<g ref="char:cmbAbbrStroke">̄</g>,
+<pb facs="tcp:191464:38"/> and though he be ouercome with thirſt, yet will not drinke of the water brought vnto him, if it bee fetcht with the venture of blood? 2. <hi>Sam.</hi> 23. 16. Where ſhall you finde a <hi>Peter,</hi> a patron like <hi>Peter,</hi> who, if <hi>Simon</hi> offer mony, will be at defiance with him, and ſay, Thy mony periſh with thee. <hi>Act.</hi> 8. 20?</p>
+            <p>Where ſhall you find ſuch a pa<g ref="char:EOLhyphen"/>tron as was <hi>Henry</hi> the fourth, who when ſome offred golden moun<g ref="char:EOLhyphen"/>taines, other great booties, out of the Abbey landes, other more ſer<g ref="char:EOLhyphen"/>uice to the common wealth then was accuſtomed for the Abbey of Fulde, called vnto him one <hi>Ru<g ref="char:EOLhyphen"/>zelin,</hi> a Monke, who came to the Court about the buſineſſe of his houſe, at the commaundement of the Abbot, and neuer dreamed of any ſuch thing, and putting the
+<pb facs="tcp:191464:39"/> paſtorall ſtaffe in his hands, firſt named him Abbot, and prayed the reſt both Souldiers &amp; Monks, to conſent to his election. I con<g ref="char:EOLhyphen"/>demne not all, I knowe there be manie good men which preferre the giftes of the minde, before the gifts of the purſe, which miſlike the biſhop that is a <hi>Balaam,</hi> the pa<g ref="char:EOLhyphen"/>trone that is a <hi>Iudas,</hi> the miniſter that is a <hi>Magus,</hi> which quickelie caſt them off that come farre, and bring golde with them, becauſe the celeſtiall ſhining ſtarre refuſe to bee their guide, &amp; among thoſe let the right honourable the Lord Keeper that nowe is, haue the chiefeſt place, who regarding more <hi>Simon Peters</hi> preaching, then <hi>Simon Magus</hi> bagge, ſingles out ſuch to beſtowe preferments vpon them, which haue of good
+<pb facs="tcp:191464:39"/> continuance beene brought vp in <hi>Naioth,</hi> I meane the ſchooles and Vniuerſities, which were firſt planted to bee nurſeryes of Pro<g ref="char:EOLhyphen"/>phets. 1. <hi>Sam.</hi> 19: 20. If patrones would fetch their light from this Torch, and patroneſſes take their woorke out of this Sampler, then ſhoulde men bee gyuen to dignities, not dignityes to men, then oh, then howe well would it bee with our Church? There woulde bee as little ſeeking af<g ref="char:EOLhyphen"/>ter benefices as nowe there is greedineſſe to get them, men woulde rather labour to deſerue liuing, then bee bolde to procure it: but ſuch is the iniquitie of this latter time, into which wee are fallen, that I am verily perſwaded that ſpirituall promotions are as v<g ref="char:EOLhyphen"/>ſully ſold of moſt me<g ref="char:cmbAbbrStroke">̄</g>, which haue
+<pb facs="tcp:191464:40"/> the<g ref="char:cmbAbbrStroke">̄</g> to beſtow, as horſes in Smith<g ref="char:EOLhyphen"/>field, and ſolde as garments by the drum, to thoſe which offer moſt money for them: There was no Citie (ſaide <hi>Philip</hi> of <hi>Macedon)</hi> ſo ſurely defenced, whereunto a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſe laden with golde might no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enter: ſo, <hi>ſed reprimo me,</hi> and retur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againe to theſe diſciples which in this place take a cleane contrarie courſe, hereby ſhewing howe much they eſteeme the Goſpel of Chriſt, becauſe they ſend ſuccou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the place from whence it came. - <hi>To ſend ſuccour to the brethren.</hi> Some are brethren by nature as <hi>Pharez</hi> and <hi>Zarah,</hi> borne both of <hi>Tamar, Gen.</hi> 38, 30. ſome by conſan<g ref="char:EOLhyphen"/>guinitie, which are of the ſame fa<g ref="char:EOLhyphen"/>milie: ſo <hi>Laban</hi> calleth <hi>Iacob</hi> his brother, <hi>Gen.</hi> 29. 15. though hee were his ſiſters ſonne, <hi>ver:</hi> 13. ſome
+<pb facs="tcp:191464:40"/> by Nation, ſo <hi>Paule</hi> calleth the Iewes his brethren, <hi>Rom.</hi> 9. 3. ſome by profeſsion, ſo the Chriſtians in this place call brethren: brethren not onely bicauſe they are made of one God, <hi>Mal.</hi> 2. 10. came all out of the loynes of one <hi>Adam,</hi> but becauſe they are called to the ſame inheritance, the kingdome of heauen. <hi>Luke</hi> 12. 32. The verie name of a brother or kinſman is a ſufficient argument to ſtirre vp compaſsion. VVhen <hi>Laban</hi> heares tell that one <hi>Iacob</hi> his ſiſters ſonne is come into the countrey, he runs to meet him, embraceth him, and kiſſeth him, and bringeth him to his houſe. <hi>Ge.</hi> 29. 13. VVhen <hi>Heſter</hi> is fatherleſſe, &amp; motherleſſe, <hi>Mor<g ref="char:EOLhyphen"/>decai,</hi> becauſe ſhe came of his vncle takes her for his owne daughter. <hi>Heſt.</hi> 2. 7. <hi>Pauls</hi> heart melteth vpon
+<pb facs="tcp:191464:41"/> the Iewes his brethren, and there<g ref="char:EOLhyphen"/>fore would redeeme their reiecti<g ref="char:EOLhyphen"/>on with his owne damnation. <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 9. 3. Iſrael muſt not deteſt an Ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mit, becauſe he is his brother. <hi>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 23. 7. nor Edom deteſt an Iſraelite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe he is his brother. <hi>Amos</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 11. if nature worketh thus in thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which are brethren in the fleſh ſhall not <hi>Grace</hi> rouze vp pitie to<g ref="char:EOLunhyphen"/>wardes our brethren in Chriſt<g ref="char:punc">▪</g> There is a maruellous neare con<g ref="char:EOLhyphen"/>iunction between the faithful be<g ref="char:EOLhyphen"/>cauſe they are members one of an other. 1. <hi>Cor.</hi> 12. Do good therefore (ſaith the Apoſtle) <hi>Gal.</hi> 6. 10. to al, but eſpecially to the houſholde of faith: do good to all generally, for true vertue ſets it ſelf on work, in reſpect of none other end the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it ſelf. <hi>Non eſt magni animi benefi<g ref="char:EOLhyphen"/>ciu<g ref="char:cmbAbbrStroke">̄</g> dare, &amp; perdere, ſed perdere, &amp; da<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi>
+               <pb facs="tcp:191464:41"/> It argues not ſo valiant a minde <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o giue a benefite and looſe, as to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooſe a benefit, and giue againe. A <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an will ſowe his ground againe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his yere in hope of good increaſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough the laſt yeare he had but a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad crop. <hi>Si non demus vt homini, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men vt homines.</hi> If we giue not to Chriſtians, yet let vs giue, becauſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee are Chriſtians: though wee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde little kindneſſe in other, let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not looſe it in our ſelues: but eſpecially wee muſt bee good to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he houſholde of fayth. <hi>Ioſeph</hi> lo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth all his brethren, but <hi>Benia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in</hi> with a more ſpeciall loue, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore he ſhall haue a meſſe by him ſelf, <hi>Gen.</hi> 43. 34. as <hi>Iacob</hi> loueth <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſeph</hi> more then al his ſons<g ref="char:punc">▪</g> 
+               <hi>Ge.</hi> 37. 3 God maketh his ſun to ſhine vpon the good and bad. <hi>Matt.</hi> 5, 45. but ſuch a brightnes ſhal ouer ſhine his people,
+<pb facs="tcp:191464:42"/> as if ſeuen Sunnes did giue light <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one time, <hi>Iſ.</hi> 30. 26. God loues a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the dwellings of <hi>Iacob,</hi> but mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the gates of <hi>Zion, Pſal.</hi> 87. 2. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> godly are veſſels of gold, 2. <hi>Tim.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 20. Therefore the Lord makes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeciall account of them. Wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God hath ſet his heart, there l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> man ſet his delight: therefore <hi>Da<g ref="char:EOLunhyphen"/>uid</hi> ſaid, all his delight was vpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Saints in earth, and vpon ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as excelled in vertue. <hi>Pſa.</hi> 16. 3. an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therefore the diſciples here ſend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuccour to the brethren. If the di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ciples here giue a voluntarie offe<g ref="char:EOLunhyphen"/>ring, and as it ſeemeth of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own penury, then let them whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue ſuperfluitie, conſider of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> needie, and the rather for that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe diſtreſſed times, a ſpecia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commandement hath come fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the higher powers, to inioine the<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:191464:42"/> to it. That inequality is diueliſh where one ſurfetteth, another is hungry. 1, <hi>Cor.</hi> 11. 21. that equalitie is commendable where one mans plentie ſupplies another mans want. 2. <hi>Cor.</hi> 8. 14. If Chriſt became poore to make vs rich, let vs of our riches ſpare ſomewhat to the reliefe of his pouertie: we thinke it theft to take away another mans goods, yet is it no leſſe ſinne to to take from him that hath, then not to giue to him that want. We cannot abide to heare that our hands ſhould bee imbrued in our brothers blood, yet he kils a man that ſuffers him to periſh for want of foode, when hee may relieue him. Let mercie fol<g ref="char:EOLhyphen"/>lowe Iuſtice. <hi>Matth.</hi> 5. 7. Let iuſtice pay debts, and then mer<g ref="char:EOLhyphen"/>cye giue part of that which re<g ref="char:EOLhyphen"/>maineth,
+<pb facs="tcp:191464:43"/> the rich man hath <hi>Lu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 12. 17, when hee ſaith hee hath n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> row me to lay his fruits: for poor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mens bellies are barnes, in whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he may put the extraordinarie in<g ref="char:EOLunhyphen"/>creaſe of his corne: and becauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the generatio<g ref="char:cmbAbbrStroke">̄</g> of the righteous ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to God as the apple of his eye, God loueth them as <hi>Iacob</hi> doth <hi>Io<g ref="char:EOLhyphen"/>ſeph</hi> aboue his other ſons. <hi>Gen.</hi> 37. 3. let not <hi>y<hi rend="sup">•</hi>
+               </hi> prophet vpbraide vs with this, that we haue not bin ſory fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the affliction of <hi>Ioſeph. Amos</hi> 6. 6.</p>
+            <p>
+               <hi>Brethren which were in Iudea.</hi> Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> land O <hi>Iurie,</hi> was as the garden o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eden, Ioel</hi> 2. 3. Bleſſed of the Lord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was thy land for the ſweetneſſe of heauen, for the dew, and for the depth lying beneath, and for the ſweet increaſe of the Sun, and for the ſweete increaſe of the moone, not onely the valleys did ſtande ſo
+<pb facs="tcp:191464:43"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hicke with corne, that they did ſhowte for ioy, and ſing, but the hilles were compaſſed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th glad<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſe, and the mountaines did bring peace vnto the people: ſweet was the top of thy ancient mou<g ref="char:cmbAbbrStroke">̄</g>tains ſweet were thy old hils. <hi>Flumina <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:cmbAbbrStroke">̄</g> lactis, ia<g ref="char:cmbAbbrStroke">̄</g> flumina nectaris ibant.</hi> Thy land did flow with milk and hony, euery place was full of the riches of the Lord, but now the heauen aboue thee is as iron, and the earth as braſſe, there are no fields of offrings, the ſeede is rot<g ref="char:EOLhyphen"/>ten vnder the clods, the garners <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re deſtroied, <hi>y<hi rend="sup">e</hi>
+               </hi> corne is withered, ſo that when a man ſeeth the little increaſe of thy ground, he would think that thou had delt with it<g ref="char:punc">▪</g> as <hi>Abimelech</hi> did with <hi>Sichem,</hi> ſowed ſalt in it. <hi>Iud</hi> 9. 45 let vs learne here not only not to promiſe our ſelues
+<pb facs="tcp:191464:44"/> continuall proſperitie, not onlie not to place our chiefeſt felicitie in anie outward bleſsings we do enioy, but eſpecially this, not to make the meanes an Idoll to tie Gods power vnto, or fetter his graces to it. If thou conſider e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the conſtitution of thy bodie, and ſee that GOD hath giuen the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrength to labour and take paine, and that thou riſeſt while it is yet night, and girdeſt thy loynes, and in the morning ſoweſt thy ſeede, and in the euening ſuffreſt not thy ha<g ref="char:cmbAbbrStroke">̄</g>d to reſt, yet truſt not too much in thy labour<g ref="char:punc">▪</g> for it may be thou ſhalt euen wearie thy ſelfe for ve<g ref="char:EOLhyphen"/>rie vanitie, ſow the wind, and reap the while wind, for thou ſeeſt ma<g ref="char:EOLhyphen"/>ny riſe vp early, &amp; late take reſt, &amp; eat <hi>y<hi rend="sup">e</hi>
+               </hi> bread of carefulnes, yet they neuer thriue, for neither is he that
+<pb facs="tcp:191464:44"/> pla<g ref="char:cmbAbbrStroke">̄</g>teth any thing, nor he that wa<g ref="char:EOLhyphen"/>treth, but god that giueth increaſe 1. <hi>Cor.</hi> 3. 7. Therfore <hi>Iacob</hi> though hee had taken great paines, yet a<g ref="char:EOLhyphen"/>ſcribeth nothing to his labour, but all to Gods bleſsing. <hi>Gen.</hi> 30. 30. If thou art in health, and haſt a good appetite to thy meat, and thy table furniſhed with all maner of cates, truſt not too much in the vanitie of thy diſhes<g ref="char:punc">▪</g> for he that can make <hi>Daniel</hi> fat in fleſh, and in good ly<g ref="char:EOLhyphen"/>king with pulſe and water, <hi>Dan.</hi> 1. 15. can kindle his wrath againſt Iſ<g ref="char:EOLhyphen"/>rael, while the fleſh is yet be<g ref="char:EOLhyphen"/>tweene their teeth. <hi>Num.</hi> 11. 33. or it goeth downe, hee can vtterly breake the ſtaffe of bread, giue men their deſire, but ſend leannes withall into their ſoule, the Floore, and the Winepreſſe ſhall not feede them, they ſhall eate
+<pb facs="tcp:191464:45"/> but not haue inough, drink &amp; n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be filled: and they ſhalbe as 7: euill fauoured kine in <hi>Pharohs</hi> dreame, which were ſtill lean though they had deuoured the fat kine, &amp; like the thin eares which were ſtill wi<g ref="char:EOLhyphen"/>thered, thin, and blaſted with the Eaſt wind, though they had eate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vp the fuller corne. <hi>Gen.</hi> 41. Ther<g ref="char:EOLhyphen"/>fore the Prophet affirming that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things wait on God for meat, ſaith God filleth them not with bread but with bleſsing. <hi>Pſa.</hi> 124. 28. fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is not the bread of it ſelfe, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> nouriſheth, but the grace of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> word infuſed into it: as it is not th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> running water it ſelfe that helpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the diſeaſe, but the vertue of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hearbs that are boiled in it: If Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h puniſhed thee with ſicknes honor the Phiſition. The Iewe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were to blame who though the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:191464:45"/> would not eſteeme Chriſt as God, yet ought to make ſome reckning of him, becauſe he cured ſo manie diſeaſes. <hi>Luke</hi> 4. 40. but truſt not too much in earthly Phiſitio<g ref="char:cmbAbbrStroke">̄</g>s, for the woman may ſpend all ſhe hath vpon phiſitians, &amp; not be the bet<g ref="char:EOLhyphen"/>ter, but the worſe. <hi>Mat:</hi> 5: 26. And <hi>Galienus</hi> the Emperor wil giue his phiſicion <hi>Fabatus</hi> a ſum of mony, not for that hee had cured him of the Sciatica, but becauſe he ſhould no more medle with him. If thou haſt frie<g ref="char:cmbAbbrStroke">̄</g>ds, truſt not in thy friends, let not man truſt in man, and make fleſh his arme, and withdraw his heart fro<g ref="char:cmbAbbrStroke">̄</g> the Lord. <hi>Ier:</hi> 17: 5. let not Iſrael truſt in Egypt, the Egyptia<g ref="char:cmbAbbrStroke">̄</g>s are men, and not God: <hi>Iſ:</hi> 31: 3: and as a broke<g ref="char:cmbAbbrStroke">̄</g> reed which wil run in<g ref="char:EOLhyphen"/>to their ha<g ref="char:cmbAbbrStroke">̄</g>d if they lea<g ref="char:cmbAbbrStroke">̄</g> vpo<g ref="char:cmbAbbrStroke">̄</g> it: truſt not in thy horſes, they are fleſh,
+<pb facs="tcp:191464:46"/> and not ſpirite, <hi>Eſay.</hi> 31. 3. a vaine thing to ſaue a man. <hi>Pſal.</hi> 33. 17. Do not ſacrifice to thy net, <hi>Hab.</hi> 1. 16. Stick not with the rich man: <hi>Luk.</hi> 12. 19 to thy wealth, Much goods for many yeares. Leane not vpon thy houſe it ſhall not ſtand: do not hold thee faſt by it, it ſhall not en<g ref="char:EOLhyphen"/>dure, but be as the houſe of a Spi<g ref="char:EOLhyphen"/>der, which is to day &amp; to morrow ſwept away, <hi>Iob.</hi> 8. 14. Do not pro<g ref="char:EOLhyphen"/>miſe to thy ſelf plenty, if thou haſt a fatte ſoile, for <hi>Iudea</hi> in this place whoſe very hils, &amp; tops of moun<g ref="char:EOLhyphen"/>tains were very fruitfull, <hi>Ioel,</hi> 3. 18 is made ſo barren, that other pla<g ref="char:EOLhyphen"/>ces muſt ſend ſuccour to it: com<g ref="char:EOLhyphen"/>monly the clay dooth ſerue the ſand, but of late yeares, the ſande hath ſerued the Clay, and our Dorcetſhire, and other drie coun<g ref="char:EOLhyphen"/>treyes haue beene ſome ſtay to
+<pb facs="tcp:191464:46"/> farre more fruitfull places. Our God can bleſſe his curſes, hee can make <hi>Colloquintida</hi> ranke poyſon to nouriſh the children of the pro<g ref="char:EOLhyphen"/>phets, 2. <hi>Reg.</hi> 4. 40. Hee can make our daies to be light, and the ſame God can curſe his bleſſings. <hi>Mal.</hi> 2. 2. make our meate to be poiſon, our table a ſnare, our proſperitie our ruine, turne out light into darkneſſe, our life into death: and can turne the Wilderneſſe into pooles of water, and the drie land into waterſprings, can alſo turne the flouds into a wilderneſſe, and the ſprings of water into drineſſe, and Iudea a fruit full land into ſalt<g ref="char:EOLhyphen"/>neſſe and barrenneſſe, for the wic<g ref="char:EOLhyphen"/>kedneſſe of them that dwell ther<g ref="char:EOLhyphen"/>in. When therefore we haue al the meanes which might ſerue any way to do vs good, our beſt way
+<pb facs="tcp:191464:47"/> is to ſpread handes abroade before the Lord, as <hi>Iacob</hi> doth, <hi>Gen.</hi> 43. 14. <hi>Heſiodus</hi> will haue the huſband<g ref="char:EOLhyphen"/>man lay his hand vpon the plough taile, there he muſt vſe the meanes: hee will haue him further to make his vowes to <hi>Iupiter</hi> and <hi>Ceres,</hi> before hee ploweth or putteth in his ſeede: there muſt hee pray God to bleſſe the meanes. In warres <hi>Ioſhua</hi> muſt muſter his men and ſette them in array, and ſtretch out the ſpeare in his hand, <hi>Ioſ.</hi> 8. this is to vſe the meanes: hee muſt further remember, the name of the Lord his God, <hi>Pſa.</hi> 2. 8. that he may bleſſe the meanes. When the waues threaten the ſhippe, lette the marriners cutte the ropes and caſt anchor, <hi>Acts</hi> 27. 30. there is the meanes of ſafetie, and further with the diſciples crie helpe Lord,
+<pb facs="tcp:191464:47"/> 
+               <hi>Mat.</hi> 8. 25. a prayer for ſafetie. Oyle was much vſed in <hi>Paleſtina,</hi> and counted medicinable, <hi>Mar.</hi> 6. 13. <hi>Luke</hi> 10. 34. Therefore the Elders when they viſited the ſicke muſt vſe oyle, and as well praier as oile, <hi>Iames</hi> 5, 14. if thou art hungerbit, knowe the Diſciples go to buye meate, <hi>Ioh.</hi> 4. 8. but knowe againe that Chriſt bleſſeth the meat, <hi>Mat.</hi> 14. 19. by the firſt learne to receiue Gods creatures as a meanes to re<g ref="char:EOLhyphen"/>freſh thy bodie, by the latter, to begin thy meale with praier, and end it with thankſgiuing: if thou had bad or leane grounde, as it is <hi>Num.</hi> 13, 21. good it with thy pot or with thy fold, fallow it, twifallow it, bring it into heart, huſband it in the beſt manner, make it as fat as this Iudea, yet for al this becauſe it is in God to chooſe whether it
+<pb facs="tcp:191464:48"/> ſhal yeeld a curſe or a bleſſing, thi<g ref="char:EOLhyphen"/>ſtles or wheate, cockle or barly; in this and ſo in al other thy actions, let this bee as it were the foote of thy ſong, <hi>Proſper thou vpon vs the worke of our hands O Lord, proſper thou our handie worke.</hi>
+            </p>
+            <p>
+               <hi>Purpoſed to ſend ſuccor, which thing they alſo did.</hi> Before the hand bee ſtretched out to giue, the heart muſt bee touched with compaſſi<g ref="char:EOLhyphen"/>on, elſe almes is not accepted, and when wee are touched with pit<g ref="char:EOLhyphen"/>tie, then muſt we giue alſo, elſe to ſay <hi>God helpe thee</hi> and not to giue, is but a mockerie, <hi>Iames</hi> 2. 16. The diſciples therfore in this place, firſt pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie with their hearts, and then open their hands: concerning the heart, where God likes not the gi<g ref="char:EOLhyphen"/>uer he likes not the gift, if he hath caſt off <hi>Cayn,</hi> he regards not his of<g ref="char:EOLhyphen"/>fering
+<pb facs="tcp:191464:48"/> 
+               <hi>Gen.</hi> 4. 5. and where hee li<g ref="char:EOLhyphen"/>keth not the heart that moueth, he liketh not the giuer that beſtow<g ref="char:EOLhyphen"/>eth. God accepts not the offerings of the Iewes, <hi>Mal.</hi> 1. not onely be<g ref="char:EOLhyphen"/>cauſe they are vnable as the blind, and lame, and ſicke, <hi>Leuit.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 22. but offered vnlawfully, with a minde and conſcience polluted. <hi>Tit.</hi> 1. 15. I haue no pleaſure in you, ſaith the lord of hoſts, <hi>Mal.</hi> 1. 10. neither will I accept any offe<g ref="char:EOLhyphen"/>ring at your hands<g ref="char:punc">▪</g> as if he would ſay. I haue no pleaſure in the fou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>taine, I will none of the ſtreame: the ſeed is infected, I will none of the crop, I miſlike the root, it hath no good iuice, I will none of the fruit, it hath no good taſte, I will not drinke of the wine is drawen out, the veſſell is muſtie from whence it commeth: I iudge not
+<pb facs="tcp:191464:49"/> the heart by the worke, but th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worke by the heart. To the vn<g ref="char:EOLhyphen"/>cleane all things are vncleane: be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the water neuer ſo faire, it is defi<g ref="char:EOLhyphen"/>led that paſſeth through a myeri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpring: as the Iewes therefore ſhould haue ſifted their ſouls an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſciences when they ſacrifice<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Lord, ſo doo the Diſciple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heere enter into themſelues, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhewe <hi>y<hi rend="sup">e</hi>
+               </hi> their liberality commeth of a charitable minde: when they go about to ſacrifice to their bre<g ref="char:EOLunhyphen"/>thren, it is not glorie ſtirres the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vp as it doth the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pocrits, <hi>Mat.</hi> 6<g ref="char:punc">▪</g> 2. nor yet gaine, <hi>Claw me and ile cla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee,</hi> but the meere neceſſitie o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their brethren, when they conſi<g ref="char:EOLhyphen"/>der their want, in charitie they they purpoſed to releeue them<g ref="char:punc">▪</g> neither doth their determination die while it is yet <hi>Embrio,</hi> but li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ertie
+<pb facs="tcp:191464:49"/> beeing conceiued bringeth forth action, for the text ſaith, <hi>They did ſend ſuccour,</hi> the charitie of the countrey is <hi>I pittie thee, God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elpe you,</hi> men will not open their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ips and their purſe together, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et your heart as a iudge ſit on the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ench and giue the charge, then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et the hand go to worke, let the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart bee in tune, then let there be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſort of the other members: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et the heart bee a ſecret treaſurie, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as a larder or pantrie in an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſe, and fetch from thence that which is wanting to others. Let the heart bee as the poyze of a Clocke, and turne all the other members as Wheeles one way, lette the heart loue, lette there bee loue in word and tongue, <hi>Ioh.</hi> 3. 18. let there be the deed &amp; truth of loue, <hi>Luke</hi> 3. 11. let the plentie
+<pb facs="tcp:191464:50"/> of the fruite ſhewe the planting of the tree. <hi>Pſal.</hi> 1. 3. and the faire<g ref="char:EOLhyphen"/>nes of the bloſſome the goodneſſe of the roote.</p>
+            <p>
+               <hi>Euery man according to his abilitie.</hi> In euery thing a golden meane is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good vertue, running paſt the goale for ſlowneſſe, exceeding brightneſſe dazeleth the ſight, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well as darkeneſſe obſcureth th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obiect: if gifts be too big, then a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou a waſter, if they be too ſmall, then art thou a niggard. When the tabernacle is made, the rich bring golde and ſiluer, the meaner ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> braſſe and gifts of leſſe value, <hi>Ec.</hi> 25, 4. When the Iſraelites giue ci<g ref="char:EOLhyphen"/>ties to the Leuites, euery Tribe muſt giue according to his inhe<g ref="char:EOLhyphen"/>ritance, <hi>Num.</hi> 35. 8: Rich men caſt great gifts into the treaſurie, but the poore widow but two mites,
+<pb facs="tcp:191464:50"/> 
+               <hi>Luk.</hi> 21. 1. In this place the diſciples which haue much, giue much, they which haue litle, g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue of that little. We ſay not, giue as we giue <hi>Mat.</hi> 6. 11. but forgiue as we for<g ref="char:EOLhyphen"/>giue. <hi>ver.</hi> 12. for we may and muſt alwaies forgiue. Giue alwaies we need not, nor cannot: and when facultie can ſtretch no further, good will is taken in good part, he that doth what he can, can ſhewe no greater liberalitie. Grand ene<g ref="char:EOLhyphen"/>mies of this beneuolence, are couetouſneſſe and prodigalitie: the couetous man is like churliſh <hi>Naball,</hi> who will not giue a piece of bread to ſuccour king <hi>Dauid.</hi> 1. <hi>Sam.</hi> 25. 11. he himſelfe wanteth as well that he hath, as that he hath not: &amp; how can the greedy mind carie any diſpoſition to ſpend vpo<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:191464:51"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191464:51"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:191464:52"/> other, ſince hee counts that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which he beſtoweth vpo<g ref="char:cmbAbbrStroke">̄</g> himſelf<g ref="char:punc">▪</g> The prod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gall man on the other ſide, becauſe he hath ſuffered ſu<g ref="char:EOLhyphen"/>perfluous expences to ſurmou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his reuenewes, is co<g ref="char:cmbAbbrStroke">̄</g>pelled by ne<g ref="char:EOLhyphen"/>ceſsitie to take from others, hee is not as a litle ſpring ru<g ref="char:cmbAbbrStroke">̄</g>ning always, but ſtanding vpon reputation, la<g ref="char:EOLhyphen"/>uiſheth and laſheth for a time, and is drie in the end as thoſe brookes <hi>Iob.</hi> 6. 16. To auoid theſe extremi<g ref="char:EOLhyphen"/>ties lay not vp without meaſure, lauiſh not wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout meane.</p>
+            <p>
+               <hi>Sic vteretuo, vt alieno non indige<g ref="char:EOLhyphen"/>as,</hi> In ſuch ſort guide that which is thine owne, that thou needeſt no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beg of another? Sin not againſt o<g ref="char:EOLhyphen"/>thers by giuing too litle: ſin not a<g ref="char:EOLhyphen"/>gainſt thy ſelf by giuing too much: God giueth riches, let not coue<g ref="char:EOLhyphen"/>touſneſſe hoord them vp: let not
+<pb facs="tcp:191464:52"/> prodigalitie caſt them away, but let liberalitie beſtow them accor<g ref="char:EOLhyphen"/>ding to euery mans abilitie.</p>
+            <p>
+               <hi>And ſent it to the elders by the hands of Barnabas and Saule.</hi> What more delightfull to the eare then good muſicke? what more vnpleaſant then much noiſe, &amp; no concord? what more acceptable before god or profitable before man the<g ref="char:cmbAbbrStroke">̄</g> good orders, daily &amp; duly obſerued: the diſciples therfore thogh they are bountifull in giuing, yet will not haue euery one be his owne car<g ref="char:EOLhyphen"/>uer, catch &amp; latch what he ca<g ref="char:cmbAbbrStroke">̄</g>, but wil haue the elders, the gouernors of the church called <hi>elders,</hi> of their age (among who<g ref="char:cmbAbbrStroke">̄</g> the apoſtles had the chiefeſt place) vnder whom the deacons were appointed for this buſineſſe. <hi>Act.</hi> 6, 3. to deale as they think co<g ref="char:cmbAbbrStroke">̄</g>uenient in the diſtri<g ref="char:EOLhyphen"/>bution,
+<pb facs="tcp:191464:53"/> to be as <hi>Ioſeph. Ge.</hi> 41. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. &amp; opening the places wherein the ſtore is, deliuer it out to hunge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-ſterued ſouls. And beſides, to ſhew that prouiſion for the poore is a matter of no ſmall account, they make choiſe of ſuch men to carrie their beneuole<g ref="char:cmbAbbrStroke">̄</g>ce, as were of verie good eſtimation: <hi>Barnab as</hi> a good man, &amp; full of the holy ghoſt and faith: <hi>Act:</hi> 11: 24, and <hi>Saul</hi> a wor<g ref="char:EOLhyphen"/>thy ſeruant of God, a choſen veſ<g ref="char:EOLhyphen"/>ſel to beare gods name before the Gentils, <hi>Act:</hi> 9: 15. &amp; thoſe like the doue which <hi>Noah</hi> ſent out of the ark. <hi>Ge:</hi> 8, 9: hauing fulfilled their office, returned again fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Ieruſale<g ref="char:cmbAbbrStroke">̄</g>,</hi> and are now gone vp to the high &amp; heauenly <hi>Ieruſalem,</hi> whither he graunt we may aſcend which did ſpend his blood for vs. To whom with the father, &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
